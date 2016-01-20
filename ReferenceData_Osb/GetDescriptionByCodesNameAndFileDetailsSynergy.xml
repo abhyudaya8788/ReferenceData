@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This xml contains the mapping of the element name coming in the input and the reference data file to be used for getDescriptionBysCodes. -->
+<getDescriptionByCodesNameAndFileDetails>
+	<getDescriptionByCodesNameAndFile>
+		<elementName>EVENTTYPE</elementName>
+		<dataFile>COBXREP</dataFile>
+	</getDescriptionByCodesNameAndFile>
+	<getDescriptionByCodesNameAndFile>
+		<elementName>EVENT_TYPE_CODE</elementName>
+		<dataFile>COCQREP</dataFile>
+	</getDescriptionByCodesNameAndFile>
+	<getDescriptionByCodesNameAndFile>
+		<elementName>REASONCODE</elementName>
+		<dataFile>COD9REP</dataFile>
+	</getDescriptionByCodesNameAndFile>
+	<getDescriptionByCodesNameAndFile>
+		<elementName>CALLCLASSIFICATION</elementName>
+		<dataFile>COEFREP</dataFile>
+	</getDescriptionByCodesNameAndFile>
+</getDescriptionByCodesNameAndFileDetails>

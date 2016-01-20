@@ -1,0 +1,38 @@
+<BusinessBroadbandDetails>
+	<BusinessBroadbandDetail>
+		<avatarProductID>500</avatarProductID>
+		<soaProductID>500</soaProductID>
+		<soaProductName>Home Worker</soaProductName>
+		<soaProductCategory>Corporate</soaProductCategory>
+	</BusinessBroadbandDetail>
+	<BusinessBroadbandDetail>
+		<avatarProductID>501</avatarProductID>
+		<soaProductID>501</soaProductID>
+		<soaProductName>Branch Office</soaProductName>
+		<soaProductCategory>Corporate</soaProductCategory>
+	</BusinessBroadbandDetail>
+	<BusinessBroadbandDetail>
+		<avatarProductID>502</avatarProductID>
+		<soaProductID>502</soaProductID>
+		<soaProductName>Home Office</soaProductName>
+		<soaProductCategory>SME</soaProductCategory>
+	</BusinessBroadbandDetail>
+	<BusinessBroadbandDetail>
+		<avatarProductID>503</avatarProductID>
+		<soaProductID>503</soaProductID>
+		<soaProductName>Office 10</soaProductName>
+		<soaProductCategory>SME</soaProductCategory>
+	</BusinessBroadbandDetail>
+	<BusinessBroadbandDetail>
+		<avatarProductID>504</avatarProductID>
+		<soaProductID>504</soaProductID>
+		<soaProductName>National Access</soaProductName>
+		<soaProductCategory>Corporate</soaProductCategory>
+	</BusinessBroadbandDetail>
+	<BusinessBroadbandDetail>
+		<avatarProductID>505</avatarProductID>
+		<soaProductID>505</soaProductID>
+		<soaProductName>Access</soaProductName>
+		<soaProductCategory>SME</soaProductCategory>
+	</BusinessBroadbandDetail>
+</BusinessBroadbandDetails>

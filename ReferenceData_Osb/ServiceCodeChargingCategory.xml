@@ -1,0 +1,14 @@
+<serviceCodeChargingCategories>
+	<serviceCodeChargingCategory>
+		<serviceCode>500NWD</serviceCode>
+		<chargingCategory>BC_DATA_CAPPED</chargingCategory>
+	</serviceCodeChargingCategory>
+	<serviceCodeChargingCategory>
+		<serviceCode>750NWD</serviceCode>
+		<chargingCategory>BC_DATA_CAPPED</chargingCategory>
+	</serviceCodeChargingCategory>
+	<serviceCodeChargingCategory>
+		<serviceCode>1GBNWD</serviceCode>
+		<chargingCategory>BC_DATA_CAPPED</chargingCategory>
+	</serviceCodeChargingCategory>
+</serviceCodeChargingCategories>

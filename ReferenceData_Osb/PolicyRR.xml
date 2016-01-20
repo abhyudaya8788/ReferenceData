@@ -1,0 +1,36 @@
+<!--Date          Change#      	  Author             Change Description-->
+<!--05/06/2014    1.0.3        Pronisa Baruah   	Changed policy days of Policy F from 14 to 7. 
+													Also changed the type of Policy F to Days(Calendar).This changes are part of EU Distance Selling project.-->
+<!--13/05/2013    1.0.2        Pronisa Baruah   	Changed policy days of Policy H from 28 to 14 -->
+<!--19/06/2012    1.0.1        Pronisa Baruah   	Changed policy days of Policy F from 14 to 7  -->
+<!--10/07/2009    1.0.0        Pronisa Baruah		Initial Version		                	      -->
+<!--07/09/2015    1.0.4        Rani Eshwar       	Changed policy days of Policy H from 14 to 30 as part of Customer Right Act(CRA) Chages	-->
+<policyDetails>
+	<policy>
+		<id>1</id>
+		<policyCode>F</policyCode>
+		<description>Current inner-boundary for rules</description>
+		<days>14</days>
+		<startDate>2009-01-01</startDate>
+		<endDate>9999-01-01</endDate>
+		<type>Days(Calendar)</type>
+	</policy>
+	<policy>
+		<id>2</id>
+		<policyCode>H</policyCode>
+		<description>Current outer-boundary for rules</description>
+		<days>30</days>
+		<startDate>2009-01-01</startDate>
+		<endDate>9999-01-01</endDate>
+		<type>Days(Calendar)</type>
+	</policy>
+	<policy>
+		<id>3</id>
+		<policyCode>M</policyCode>
+		<description>MBB Specific Boundary</description>
+		<days>30</days>
+		<startDate>2009-01-01</startDate>
+		<endDate>9999-01-01</endDate>
+		<type>Days(Calendar)</type>
+	</policy>
+</policyDetails>

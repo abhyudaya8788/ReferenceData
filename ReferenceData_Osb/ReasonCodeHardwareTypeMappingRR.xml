@@ -1,0 +1,22 @@
+<!--Date          Change#      	  Author             Change Description-->
+<!--05/06/2014    1.0.0        Pronisa Baruah   	 Added 101 and 102 for MBB hardware type. Removed 150 for MBB hardware type.
+													 This changes are part of MBB Change of Mind Policy.-->
+<reasonCodeHardwareTypeDetails>
+<reasonCodeHardwareType><reasonCode>101</reasonCode><hardwareTypes>HAN,MBB</hardwareTypes></reasonCodeHardwareType>
+<reasonCodeHardwareType><reasonCode>102</reasonCode><hardwareTypes>HAN,LAP,MBB</hardwareTypes></reasonCodeHardwareType>
+<reasonCodeHardwareType><reasonCode>103</reasonCode><hardwareTypes>HAN</hardwareTypes></reasonCodeHardwareType>
+<reasonCodeHardwareType><reasonCode>104</reasonCode><hardwareTypes>HAN,LAP,MBB</hardwareTypes></reasonCodeHardwareType>
+<reasonCodeHardwareType><reasonCode>105</reasonCode><hardwareTypes>HAN</hardwareTypes></reasonCodeHardwareType>
+<reasonCodeHardwareType><reasonCode>106</reasonCode><hardwareTypes>HAN,LAP,MBB</hardwareTypes></reasonCodeHardwareType>
+<reasonCodeHardwareType><reasonCode>107</reasonCode><hardwareTypes>HAN,LAP,MBB</hardwareTypes></reasonCodeHardwareType>
+<reasonCodeHardwareType><reasonCode>108</reasonCode><hardwareTypes>HAN,LAP,MBB</hardwareTypes></reasonCodeHardwareType>
+<reasonCodeHardwareType><reasonCode>111</reasonCode><hardwareTypes>HAN,LAP,MBB</hardwareTypes></reasonCodeHardwareType>
+<reasonCodeHardwareType><reasonCode>112</reasonCode><hardwareTypes>HAN,LAP,MBB</hardwareTypes></reasonCodeHardwareType>
+<reasonCodeHardwareType><reasonCode>113</reasonCode><hardwareTypes>HAN</hardwareTypes></reasonCodeHardwareType>
+<reasonCodeHardwareType><reasonCode>121</reasonCode><hardwareTypes>HAN</hardwareTypes></reasonCodeHardwareType>
+<reasonCodeHardwareType><reasonCode>122</reasonCode><hardwareTypes>HAN</hardwareTypes></reasonCodeHardwareType>
+<reasonCodeHardwareType><reasonCode>123</reasonCode><hardwareTypes>HAN</hardwareTypes></reasonCodeHardwareType>
+<reasonCodeHardwareType><reasonCode>124</reasonCode><hardwareTypes>HAN,LAP,MBB</hardwareTypes></reasonCodeHardwareType>
+<reasonCodeHardwareType><reasonCode>125</reasonCode><hardwareTypes>HAN,LAP,MBB</hardwareTypes></reasonCodeHardwareType>
+<reasonCodeHardwareType><reasonCode>150</reasonCode><hardwareTypes>LAP</hardwareTypes></reasonCodeHardwareType>
+</reasonCodeHardwareTypeDetails>

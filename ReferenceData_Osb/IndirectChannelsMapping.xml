@@ -1,0 +1,28 @@
+<channelMapping>
+	<channels>
+		<channel>EVOLUTION</channel>
+		<indirectChannels>
+			<indirectChannel>
+				<key>INDE</key>
+				<value>EVOLUTION_INDE</value>
+			</indirectChannel>
+			<indirectChannel>
+				<key>RFE</key>
+				<value>EVOLUTION_RFE</value>
+			</indirectChannel>
+		</indirectChannels>
+	</channels>
+	<channels>
+		<channel>AAA</channel>
+		<indirectChannels>
+			<indirectChannel>
+				<key>BBB</key>
+				<value>BBB_INDE</value>
+			</indirectChannel>
+			<indirectChannel>
+				<key>CCC</key>
+				<value>CCC_RFE</value>
+			</indirectChannel>
+		</indirectChannels>
+	</channels>
+</channelMapping>

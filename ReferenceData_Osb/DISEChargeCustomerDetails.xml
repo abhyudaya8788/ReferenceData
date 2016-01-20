@@ -1,0 +1,30 @@
+<chargeCustomerDetailsType>
+	<chargeCustomerDetails>
+		<chargeCustomerReference>Capped</chargeCustomerReference>
+		<chargeCustomerDescription>BC_DATA_CAPPED</chargeCustomerDescription>
+	</chargeCustomerDetails>
+	<chargeCustomerDetails>
+		<chargeCustomerReference>Unlimited</chargeCustomerReference>
+		<chargeCustomerDescription>BC_DATA_UNLIMITED</chargeCustomerDescription>
+	</chargeCustomerDetails>
+	<chargeCustomerDetails>
+		<chargeCustomerReference>Unconditional</chargeCustomerReference>
+		<chargeCustomerDescription>BC_DATA_UNLIMITED</chargeCustomerDescription>
+	</chargeCustomerDetails>
+	<chargeCustomerDetails>
+		<chargeCustomerReference>Unlimited with Fair Use</chargeCustomerReference>
+		<chargeCustomerDescription>BC_DATA_UNLIMITED_WITH_FAIR_USE</chargeCustomerDescription>
+	</chargeCustomerDetails>
+	<chargeCustomerDetails>
+		<chargeCustomerReference>Bundle Plus Overage</chargeCustomerReference>
+		<chargeCustomerDescription>BC_DATA_OVERAGE_WITH_BUNDLE</chargeCustomerDescription>
+	</chargeCustomerDetails>
+	<chargeCustomerDetails>
+		<chargeCustomerReference>PAYU</chargeCustomerReference>
+		<chargeCustomerDescription>BC_DATA_OVERAGE_WITHOUT_BUNDLE</chargeCustomerDescription>
+	</chargeCustomerDetails>
+	<chargeCustomerDetails>
+		<chargeCustomerReference>Unlimited plus Tethering</chargeCustomerReference>
+		<chargeCustomerDescription>BC_DATA_UNLIMITED_AND_TETHERING</chargeCustomerDescription>
+	</chargeCustomerDetails>
+</chargeCustomerDetailsType>

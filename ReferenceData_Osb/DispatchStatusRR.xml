@@ -1,0 +1,13 @@
+<dispatchStatusDetails><dispatchStatus><code>NULL</code><description>Nothing to dispatch</description><isPending>N</isPending></dispatchStatus>
+<dispatchStatus><code>0</code><description>Dispatch Requested</description><isPending>Y</isPending></dispatchStatus>
+<dispatchStatus><code>1</code><description>Cancelled</description><isPending>N</isPending></dispatchStatus>
+<dispatchStatus><code>2</code><description>Cancelling</description><isPending>Y</isPending></dispatchStatus>
+<dispatchStatus><code>3</code><description>Dispatch Not Cancelled</description><isPending>Y</isPending></dispatchStatus>
+<dispatchStatus><code>4</code><description>Allocate Not Cancelled</description><isPending>Y</isPending></dispatchStatus>
+<dispatchStatus><code>5</code><description>Dispatch Required</description><isPending>Y</isPending></dispatchStatus>
+<dispatchStatus><code>10</code><description>Dispatched</description><isPending>N</isPending></dispatchStatus>
+<dispatchStatus><code>11</code><description>Allocated</description><isPending>Y</isPending></dispatchStatus>
+<dispatchStatus><code>12</code><description>Deallocated</description><isPending>Y</isPending></dispatchStatus>
+<dispatchStatus><code>13</code><description>Out Of Stock</description><isPending>Y</isPending></dispatchStatus>
+<dispatchStatus><code>99</code><description>Dispatch Not Required</description><isPending>N</isPending></dispatchStatus>
+</dispatchStatusDetails>

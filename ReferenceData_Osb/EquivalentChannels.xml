@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EquivalentChannels>
+	<EquivalentChannel>
+		<channel>DASHBOARD</channel>
+		<indirectChannels>INDE,RFE</indirectChannels>
+	</EquivalentChannel>
+	<EquivalentChannel>
+		<channel>EVOLUTION</channel>
+		<indirectChannels>EVOLUTION_INDE,EVOLUTION_RFE</indirectChannels>
+	</EquivalentChannel>
+</EquivalentChannels>

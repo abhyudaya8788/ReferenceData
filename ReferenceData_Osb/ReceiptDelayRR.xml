@@ -1,0 +1,34 @@
+<receiptDelayDetails>
+	<receiptDelay>
+		<sourceOfSale>RFE</sourceOfSale>
+		<value>0</value>
+		<type>Days(Calendar)</type>
+		<description>
+			Assumed period between Dispatch Date and Receipt Date
+		</description>
+	</receiptDelay>
+	<receiptDelay>
+		<sourceOfSale>online</sourceOfSale>
+		<value>1</value>
+		<type>Days(Working)</type>
+		<description>
+			Assumed period between Dispatch Date and Receipt Date
+		</description>
+	</receiptDelay>
+	<receiptDelay>
+		<sourceOfSale>ONLINE</sourceOfSale>
+		<value>1</value>
+		<type>Days(Working)</type>
+		<description>
+			Assumed period between Dispatch Date and Receipt Date
+		</description>
+	</receiptDelay>
+	<receiptDelay>
+		<sourceOfSale>ESME</sourceOfSale>
+		<value>1</value>
+		<type>Days(Working)</type>
+		<description>
+			Assumed period between Dispatch Date and Receipt Date
+		</description>
+	</receiptDelay>
+</receiptDelayDetails>

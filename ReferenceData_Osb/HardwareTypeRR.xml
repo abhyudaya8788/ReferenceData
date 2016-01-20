@@ -1,0 +1,4 @@
+<hardwareDetails><hardware><hardwareType>HAN</hardwareType><description>Handset</description></hardware>
+<hardware><hardwareType>LAP</hardwareType><description>Laptop</description></hardware>
+<hardware><hardwareType>MBB</hardwareType><description>Mobile broadband dongle</description></hardware>
+</hardwareDetails>

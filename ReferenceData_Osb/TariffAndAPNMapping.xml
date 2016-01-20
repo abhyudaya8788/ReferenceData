@@ -1,0 +1,5 @@
+<tariffAPNDetails><tariffAPNDetail><tariffType>BlackBerry</tariffType><compatibleAPN>57,2041,58,221</compatibleAPN><nonCompatibleAPN>985,986</nonCompatibleAPN></tariffAPNDetail>
+<tariffAPNDetail><tariffType>DefaultTariff</tariffType><compatibleAPN>2041,58,221</compatibleAPN><nonCompatibleAPN>57,985,986</nonCompatibleAPN></tariffAPNDetail>
+<tariffAPNDetail><tariffType>iphone</tariffType><compatibleAPN>2041,58,985,221</compatibleAPN><nonCompatibleAPN>57,986</nonCompatibleAPN></tariffAPNDetail>
+<tariffAPNDetail><tariffType>iphonePlusModem</tariffType><compatibleAPN>2041,58,985,986,221</compatibleAPN><nonCompatibleAPN>57</nonCompatibleAPN></tariffAPNDetail>
+</tariffAPNDetails>

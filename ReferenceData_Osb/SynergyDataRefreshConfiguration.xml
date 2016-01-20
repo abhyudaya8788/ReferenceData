@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This xml is used to configure the time for refreshing the reference data and the path to place the reference data -->
+<configuration>
+	<!-- Time in 24 hours format -->
+	<time>3</time>
+	<filePath>/usr/o2/esb/ext_resources/soa-platform/reference-data/synergy</filePath>
+	<numberOfDays>1</numberOfDays>
+</configuration>
+
+

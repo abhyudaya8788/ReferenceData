@@ -1,0 +1,181 @@
+<!--Date          Change#      	  Author             Change Description-->
+<!--05/06/2014    1.0.0        Pronisa Baruah   	Changed the description of reason code 101 and 102.
+													This changes are part of EU Distance Selling project.-->
+<!--07/09/2015    1.0.1        Rani Eshwar   	    Changed the description of reasonCodes(103,104,107,108) 
+													as part of Customer Right Act(CRA) Changes.-->													
+<reasonCodeDetails>
+	<reasonCode>
+		<reasonCode>101</reasonCode>
+		<description>0 to 14 day (COM) Cancel</description>
+		<policyCode>F</policyCode>
+		<defaultResponse></defaultResponse>
+		<isActive>Y</isActive>
+		<returnEventType>RTN</returnEventType>
+		<isFaultyReturn>N</isFaultyReturn>
+		<isValidUpgradeOrder>N</isValidUpgradeOrder>
+	</reasonCode>
+	<reasonCode>
+		<reasonCode>102</reasonCode>
+		<description>0 to 14 day (COM) Exchange</description>
+		<policyCode>F</policyCode>
+		<defaultResponse></defaultResponse>
+		<isActive>Y</isActive>
+		<returnEventType>EXCH</returnEventType>
+		<isFaultyReturn>N</isFaultyReturn>
+		<isValidUpgradeOrder>Y</isValidUpgradeOrder>
+	</reasonCode>
+	<reasonCode>
+		<reasonCode>103</reasonCode>
+		<description>0 to 30 day Faulty Cancel</description>
+		<policyCode>H</policyCode>
+		<defaultResponse></defaultResponse>
+		<isActive>Y</isActive>
+		<returnEventType>RTN</returnEventType>
+		<isFaultyReturn>Y</isFaultyReturn>
+		<isValidUpgradeOrder>N</isValidUpgradeOrder>
+	</reasonCode>
+	<reasonCode>
+		<reasonCode>104</reasonCode>
+		<description>0 to 30 day Faulty Exchange</description>
+		<policyCode>H</policyCode>
+		<defaultResponse></defaultResponse>
+		<isActive>Y</isActive>
+		<returnEventType>EXCH</returnEventType>
+		<isFaultyReturn>Y</isFaultyReturn>
+		<isValidUpgradeOrder>Y</isValidUpgradeOrder>
+	</reasonCode>
+	
+	<reasonCode>
+		<reasonCode>105</reasonCode>
+		<description>15 to 28 day Faulty Cancel</description>
+		<policyCode>H</policyCode>
+		<defaultResponse></defaultResponse>
+		<isActive>Y</isActive>
+		<returnEventType>RTN</returnEventType>
+		<isFaultyReturn>Y</isFaultyReturn>
+		<isValidUpgradeOrder>N</isValidUpgradeOrder>
+	</reasonCode>
+	<reasonCode>
+		<reasonCode>106</reasonCode>
+		<description>15 to 28 day Faulty Exchange</description>
+		<policyCode>H</policyCode>
+		<defaultResponse></defaultResponse>
+		<isActive>Y</isActive>
+		<returnEventType>EXCH</returnEventType>
+		<isFaultyReturn>Y</isFaultyReturn>
+		<isValidUpgradeOrder>Y</isValidUpgradeOrder>
+	</reasonCode>
+	
+	
+	
+	<reasonCode>
+		<reasonCode>107</reasonCode>
+		<description>30 day+ Poor Experience Cancel</description>
+		<policyCode></policyCode>
+		<defaultResponse>N</defaultResponse>
+		<isActive>Y</isActive>
+		<returnEventType>RTN</returnEventType>
+		<isFaultyReturn>Y</isFaultyReturn>
+		<isValidUpgradeOrder>N</isValidUpgradeOrder>
+	</reasonCode>
+	<reasonCode>
+		<reasonCode>108</reasonCode>
+		<description>30 day+ Poor Experience Exchange</description>
+		<policyCode></policyCode>
+		<defaultResponse>N</defaultResponse>
+		<isActive>Y</isActive>
+		<returnEventType>EXCH</returnEventType>
+		<isFaultyReturn>Y</isFaultyReturn>
+		<isValidUpgradeOrder>Y</isValidUpgradeOrder>
+	</reasonCode>
+	<reasonCode>
+		<reasonCode>111</reasonCode>
+		<description>Damaged in transit</description>
+		<policyCode>F</policyCode>
+		<defaultResponse>Y</defaultResponse>
+		<isActive>Y</isActive>
+		<returnEventType>EXCH</returnEventType>
+		<isFaultyReturn>Y</isFaultyReturn>
+		<isValidUpgradeOrder>Y</isValidUpgradeOrder>
+	</reasonCode>
+	<reasonCode>
+		<reasonCode>112</reasonCode>
+		<description>Product Recall</description>
+		<policyCode></policyCode>
+		<defaultResponse>Y</defaultResponse>
+		<isActive>Y</isActive>
+		<returnEventType>EXCH</returnEventType>
+		<isFaultyReturn>Y</isFaultyReturn>
+		<isValidUpgradeOrder>Y</isValidUpgradeOrder>
+	</reasonCode>
+	<reasonCode>
+		<reasonCode>113</reasonCode>
+		<description>0 to 14 day Sent Wrong Product</description>
+		<policyCode>F</policyCode>
+		<defaultResponse>Y</defaultResponse>
+		<isActive>Y</isActive>
+		<returnEventType>EXCH</returnEventType>
+		<isFaultyReturn>Y</isFaultyReturn>
+		<isValidUpgradeOrder>Y</isValidUpgradeOrder>
+	</reasonCode>
+	<reasonCode>
+		<reasonCode>121</reasonCode>
+		<description>Insurance Replacement</description>
+		<policyCode></policyCode>
+		<defaultResponse>Y</defaultResponse>
+		<isActive>Y</isActive>
+		<returnEventType>EXCH</returnEventType>
+		<isFaultyReturn>N</isFaultyReturn>
+		<isValidUpgradeOrder>Y</isValidUpgradeOrder>
+	</reasonCode>
+	<reasonCode>
+		<reasonCode>122</reasonCode>
+		<description>Replaced During Repair</description>
+		<policyCode></policyCode>
+		<defaultResponse>Y</defaultResponse>
+		<isActive>Y</isActive>
+		<returnEventType>EXCH</returnEventType>
+		<isFaultyReturn>N</isFaultyReturn>
+		<isValidUpgradeOrder>Y</isValidUpgradeOrder>
+	</reasonCode>
+	<reasonCode>
+		<reasonCode>123</reasonCode>
+		<description>RTS (Return To Sender)</description>
+		<policyCode></policyCode>
+		<defaultResponse>Y</defaultResponse>
+		<isActive>Y</isActive>
+		<returnEventType>RTN</returnEventType>
+		<isFaultyReturn>N</isFaultyReturn>
+		<isValidUpgradeOrder>Y</isValidUpgradeOrder>
+	</reasonCode>
+	<reasonCode>
+		<reasonCode>124</reasonCode>
+		<description>Other Return</description>
+		<policyCode></policyCode>
+		<defaultResponse>Y</defaultResponse>
+		<isActive>Y</isActive>
+		<returnEventType>RTN</returnEventType>
+		<isFaultyReturn>N</isFaultyReturn>
+		<isValidUpgradeOrder>N</isValidUpgradeOrder>
+	</reasonCode>
+	<reasonCode>
+		<reasonCode>125</reasonCode>
+		<description>Other Replacement</description>
+		<policyCode></policyCode>
+		<defaultResponse>Y</defaultResponse>
+		<isActive>Y</isActive>
+		<returnEventType>EXCH</returnEventType>
+		<isFaultyReturn>N</isFaultyReturn>
+		<isValidUpgradeOrder>Y</isValidUpgradeOrder>
+	</reasonCode>
+	<reasonCode>
+		<reasonCode>150</reasonCode>
+		<description>Happiness Guarantee</description>
+		<policyCode>M</policyCode>
+		<defaultResponse></defaultResponse>
+		<isActive>Y</isActive>
+		<returnEventType>RTN</returnEventType>
+		<isFaultyReturn>N</isFaultyReturn>
+		<isValidUpgradeOrder>N</isValidUpgradeOrder>
+	</reasonCode>
+</reasonCodeDetails>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nemoChannels>
+	<!-- The inputs and outputs from business service should always contain the descriptive ones and the short codes should be used when acessing entity services -->
+		<nemoChannel>
+				<description>Online dashboard</description>
+				<shortCode>DASH</shortCode>
+		</nemoChannel>
+		<nemoChannel>
+				<description>Family Customer Service</description>
+				<shortCode>MACS</shortCode>
+		</nemoChannel>
+		<nemoChannel>
+				<description>Prepay retail channel</description>
+				<shortCode>PCM</shortCode>
+		</nemoChannel>		
+		<nemoChannel>
+				<description>Other</description>
+				<shortCode>OTH</shortCode>
+		</nemoChannel>
+		<nemoChannel>
+				<description>O2 Shop</description>
+				<shortCode>SHOP</shortCode>
+		</nemoChannel>						
+		<nemoChannel>
+				<description>Family Management System</description>
+				<shortCode>FMS</shortCode>
+		</nemoChannel>
+		<nemoChannel>
+				<description>Family Management Asynchronous system</description>
+				<shortCode>FAMSYS</shortCode>
+		</nemoChannel>
+		<nemoChannel>
+				<description>WIN SMS Processor</description>
+				<shortCode>WINPLC</shortCode>
+		</nemoChannel>
+		<nemoChannel>
+				<description>MRS SMS Processor</description>
+				<shortCode>MRS</shortCode>
+		</nemoChannel>		
+		<nemoChannel>
+				<description>EVOLUTION</description>
+				<shortCode>EVL</shortCode>
+		</nemoChannel>
+</nemoChannels>

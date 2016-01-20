@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--# Date #         # Version #        # Author #          # Change Description #-->
+<!--# 1-10-2010#     # 1.0 #            # Sibani panda #    # Initial version #-->
+<!-- This xml contains the reference data for mapping between bundle category and allowance type -->
+<allowanceBundles>
+	<bundles>
+		<bundle>
+			<category>VoiceVolume</category>
+			<bundleMapping>
+				<firstAllowance>voiceAllowances</firstAllowance>
+			</bundleMapping>
+		</bundle>
+	
+		<bundle>
+			<category>VoiceUnlimited</category>
+			<bundleMapping>
+				<firstAllowance>unlimitedAllowances</firstAllowance>
+			</bundleMapping>
+		</bundle>
+	
+		<bundle>
+			<category>VoiceValue</category>
+			<bundleMapping>
+				<firstAllowance>valueAllowances</firstAllowance>
+				<secondAllowance>voiceValueAllowances</secondAllowance>
+			</bundleMapping>
+		</bundle>
+			
+		<bundle>
+			<category>MessageVolume</category>
+			<bundleMapping>
+				<firstAllowance>messageAllowance</firstAllowance>
+			</bundleMapping>
+		</bundle>
+	
+		<bundle>
+			<category>MessageUnlimited</category>
+			<bundleMapping>
+				<firstAllowance>unlimitedAllowances</firstAllowance>
+			</bundleMapping>
+		</bundle>
+	
+		<bundle>
+			<category>MessageValue</category>
+			<bundleMapping>
+				<firstAllowance>valueAllowances</firstAllowance>
+				<secondAllowance>messageValueAllowances</secondAllowance>
+			</bundleMapping>
+		</bundle>
+	
+		<bundle>
+			<category>DataVolume</category>
+			<bundleMapping>
+				<firstAllowance>dataAllowances</firstAllowance>
+			</bundleMapping>
+		</bundle>
+	
+		<bundle>
+			<category>DataUnlimited</category>
+			<bundleMapping>
+				<firstAllowance>unlimitedAllowances</firstAllowance>
+			</bundleMapping>
+		</bundle>
+	
+		<bundle>
+			<category>DataValue</category>
+			<bundleMapping>
+				<firstAllowance>valueAllowances</firstAllowance>
+				<secondAllowance>dataValueAllowances</secondAllowance>
+			</bundleMapping>
+		</bundle>
+	
+		<bundle>
+			<category>MixedVolume</category>
+			<bundleMapping>
+				<firstAllowance>mixedAllowances</firstAllowance>
+			</bundleMapping>
+		</bundle>
+	
+		<bundle>
+			<category>MixedUnlimited</category>
+			<bundleMapping>
+				<firstAllowance>unlimitedAllowances</firstAllowance>
+			</bundleMapping>
+		</bundle>
+	
+		<bundle>
+			<category>MixedValue</category>
+			<bundleMapping>
+				<firstAllowance>valueAllowances</firstAllowance>
+				<secondAllowance>mixedValueAllowances</secondAllowance>
+			</bundleMapping>
+		</bundle>
+		<bundle>
+			<category>Other</category>
+			<bundleMapping>
+				<firstAllowance>otherAllowances</firstAllowance>
+			</bundleMapping>
+		</bundle>
+	</bundles>
+	
+</allowanceBundles>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nemoGroupConfig>
+	<group>
+		<groupType>FAMILY</groupType>
+		<groupCode>FAMSL</groupCode>
+		<size>5</size>
+		<price>7.50</price>
+		<description>O2 Family (1 to 5 members) + £7.50</description>
+	</group>
+	<group>
+		<groupType>FAMILY</groupType>
+		<groupCode>FAMLG</groupCode>
+		<size>10</size>
+		<price>12.50</price>
+		<description>O2 Family (1 to 10 members) + £12.50</description>
+	</group>	
+</nemoGroupConfig>

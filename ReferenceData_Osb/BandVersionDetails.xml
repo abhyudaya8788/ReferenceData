@@ -1,0 +1,27 @@
+<bandVersionDetails>
+	<bandVersionDetail>
+		<bandName>100MB</bandName>
+		<boltonList>9486,9487,9508,9509,9795,9796,9797,10399,10403</boltonList>
+	</bandVersionDetail>
+	<bandVersionDetail>
+		<bandName>250MB</bandName>
+		<boltonList>9654,9655</boltonList>
+	</bandVersionDetail>
+	<bandVersionDetail>
+		<bandName>500MB</bandName>
+		<boltonList>9488,9489,9510,9511,9798,9799,9800,10140,10141,10400,10404</boltonList>
+	</bandVersionDetail>
+	<bandVersionDetail>
+		<bandName>750MB</bandName>
+		<boltonList>9656,9657</boltonList>
+	</bandVersionDetail>
+	<bandVersionDetail>
+		<bandName>1GB</bandName>
+		<boltonList>9490,9491,9512,9513,10010,10011,10012,10142,10143,10401,10405</boltonList>
+	</bandVersionDetail>
+	<bandVersionDetail>
+		<bandName>2GB</bandName>
+		<boltonList>10144,10145,10402,10406</boltonList>
+	</bandVersionDetail>
+</bandVersionDetails>
+

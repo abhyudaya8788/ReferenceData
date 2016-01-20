@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nemoChannelAllowedCount>
+	<nemoChange>
+		<channelName>Family Management System</channelName>
+		<allowedCount>1</allowedCount>
+	</nemoChange>	
+	<nemoChange>
+		<channelName>Family Customer Service</channelName>
+		<allowedCount>0</allowedCount>
+	</nemoChange>	
+	<nemoChange>
+		<channelName>Online dashboard</channelName>
+		<allowedCount>0</allowedCount>
+	</nemoChange>	
+		<nemoChange>
+		<channelName>Prepay retail channel</channelName>
+		<allowedCount>1</allowedCount>
+	</nemoChange>	
+		<nemoChange>
+		<channelName>Other</channelName>
+		<allowedCount>0</allowedCount>
+	</nemoChange>	
+		<nemoChange>
+		<channelName>O2 Shop</channelName>
+		<allowedCount>0</allowedCount>
+	</nemoChange>	
+	<nemoChange>
+		<channelName>Family Management Asynchronous system</channelName>
+		<allowedCount>0</allowedCount>
+	</nemoChange>	
+	<nemoChange>
+		<channelName>WIN SMS Processor</channelName>
+		<allowedCount>1</allowedCount>
+	</nemoChange>	
+	<nemoChange>
+		<channelName>MRS SMS Processor</channelName>
+		<allowedCount>1</allowedCount>
+	</nemoChange>	
+	<nemoChange>
+		<channelName>EVOLUTION</channelName>
+		<allowedCount>0</allowedCount>
+	</nemoChange>
+</nemoChannelAllowedCount>

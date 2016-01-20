@@ -1,0 +1,8 @@
+<hardwareTypeRuleDetails>
+<hardwareTypeRule><ruleId>1</ruleId><hardwareType>MBB</hardwareType><returnOrExchange>RTN</returnOrExchange></hardwareTypeRule>
+<hardwareTypeRule><ruleId>2</ruleId><hardwareType>MBB</hardwareType><returnOrExchange>RTN</returnOrExchange></hardwareTypeRule>
+<hardwareTypeRule><ruleId>3</ruleId><hardwareType>MBB</hardwareType><returnOrExchange>EXCH</returnOrExchange></hardwareTypeRule>
+<hardwareTypeRule><ruleId>4</ruleId><hardwareType>MBB</hardwareType><returnOrExchange>EXCH</returnOrExchange></hardwareTypeRule>
+<hardwareTypeRule><ruleId>1</ruleId><hardwareType>MBB</hardwareType><returnOrExchange>EXCH</returnOrExchange></hardwareTypeRule>
+<hardwareTypeRule><ruleId>2</ruleId><hardwareType>MBB</hardwareType><returnOrExchange>EXCH</returnOrExchange></hardwareTypeRule>
+</hardwareTypeRuleDetails>

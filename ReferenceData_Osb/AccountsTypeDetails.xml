@@ -1,0 +1,1332 @@
+<Accounts>
+   <Account>
+      <accountType>001</accountType>
+      <description>Key Accounts</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>002</accountType>
+      <description>14 Day Airtime</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>003</accountType>
+      <description>RETURNED CHEQUES</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>004</accountType>
+      <description>Nursery Accounts</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>005</accountType>
+      <description>Gold Card</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>006</accountType>
+      <description>STAFF ACCOUNTS .</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>007</accountType>
+      <description>DIAMOND SERVICE</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>008</accountType>
+      <description>DD Arrears (Admin)</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>009</accountType>
+      <description>DD ARREARS (DEBT)</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>010</accountType>
+      <description>CRM</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>011</accountType>
+      <description>CARPHONE WAREHOUSE</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>012</accountType>
+      <description>AMWAY</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>013</accountType>
+      <description>Business Disc Credits</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>014</accountType>
+      <description>RSL CONSUMER BASE</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>015</accountType>
+      <description>BT RETAIL</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>016</accountType>
+      <description>COORS BREWERS</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>017</accountType>
+      <description>POCKET PHONE</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>018</accountType>
+      <description>DX ACCOUNTS</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>019</accountType>
+      <description>EX VSP DEALER BASE</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>020</accountType>
+      <description>PREMIUM RATE SERVICE</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>021</accountType>
+      <description>RSL VODAFONE</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>022</accountType>
+      <description>TESCO - MAJOR INDIVIDUALS</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>023</accountType>
+      <description>MAJOR ACCOUNTS</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>024</accountType>
+      <description>PREMIUN - AUTO CC</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>025</accountType>
+      <description>SME - NON AUTO CC</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>026</accountType>
+      <description>MAJOR ACCOUNTS</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>027</accountType>
+      <description>CORPORATE NON CC</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>028</accountType>
+      <description>SME - AUTO CC</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>029</accountType>
+      <description>PREMIUM ACCOUNTS</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>030</accountType>
+      <description>O2 Partners 08702203303</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>031</accountType>
+      <description>Direct Sales</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>032</accountType>
+      <description>Automotive</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>033</accountType>
+      <description>RETAIL</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>034</accountType>
+      <description>Corporate Pronet</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>035</accountType>
+      <description>DEALER THIRD PARTY ACCOUNTS</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>036</accountType>
+      <description>RSL VSP (P3)</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>037</accountType>
+      <description>SME 5252 BRONZE</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>038</accountType>
+      <description>SME 5252 SILVER</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>039</accountType>
+      <description>SME 5252 GOLD/PLATINUM</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>040</accountType>
+      <description>INTERNET ACCOUNTS</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>041</accountType>
+      <description>CPWS - STORK CONNECTIONS</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>042</accountType>
+      <description>FIXED WIRE ACCOUNTS</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>043</accountType>
+      <description>MTV</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>044</accountType>
+      <description>SAMSUNG</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>045</accountType>
+      <description>PARADIGM</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>046</accountType>
+      <description>MDBC SAMSUNG DEBT RECOVERY</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>047</accountType>
+      <description>DISE 860 CONSUMER</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>048</accountType>
+      <description>DISE 860 SELECT</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>049</accountType>
+      <description>RSL SME (P3)</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>050</accountType>
+      <description>UNALLOCATED CALLS</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>051</accountType>
+      <description>RSL CORP (P3)</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>052</accountType>
+      <description>DEALER CREDIT HARDWARE</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>053</accountType>
+      <description>AUTOMOTIVE HARDWARE</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>054</accountType>
+      <description>DEALERS ORANGE HARDWARE</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>055</accountType>
+      <description>SELECT</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>056</accountType>
+      <description>SELECT SINGLEPOINT</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>057</accountType>
+      <description>TORCH BAD DEBT</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>058</accountType>
+      <description>CORP INDIV - AUTO CC</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>059</accountType>
+      <description>PANASONIC HARDWARE</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>060</accountType>
+      <description>OA SOLICITORSS LEDGERS</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>061</accountType>
+      <description>NATIONAL POLICE FEDERATION</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>062</accountType>
+      <description>DEALER AIRTIME</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>063</accountType>
+      <description>CORPORATE AUTO CC</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>064</accountType>
+      <description>BRAILLE INVOICE CUSTOMER</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>065</accountType>
+      <description>AGENCY HIGH BALANCE</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>066</accountType>
+      <description>RSL ADVANCED VODAFONE</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>067</accountType>
+      <description>INTENSIVE CARE</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>068</accountType>
+      <description>CONSUMER DCA</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>069</accountType>
+      <description>LIVE GONEWAYS</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>070</accountType>
+      <description>CUSTOMER REQUEST DISCONNECTION</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>071</accountType>
+      <description>DEBT RECOVERY QUERY</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>072</accountType>
+      <description>HIGH RISK DISC</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>073</accountType>
+      <description>SME RECYCLE</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>074</accountType>
+      <description>FRAUD INVESTIGATIONS</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>075</accountType>
+      <description>PROMISED PAYMENT</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>076</accountType>
+      <description>ARREARS DISC (HOLDING ACCOUNT)</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>077</accountType>
+      <description>SME DEBT RECOVERY</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>078</accountType>
+      <description>DEBT RECOVERY CUSTOMER REQUEST</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>079</accountType>
+      <description>PAYMENT PLANS LIVE</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>080</accountType>
+      <description>INTERGROUP</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>081</accountType>
+      <description>End of Debt Rec Procedure</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>082</accountType>
+      <description>CONTROL ACCOUNTS RECYCLED</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>083</accountType>
+      <description>DIAMOND LIVE INST</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>084</accountType>
+      <description>SME WESCOT</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>085</accountType>
+      <description>FFC INST</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>086</accountType>
+      <description>PAYMENT PLANS H &amp; A (DISCS)</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>087</accountType>
+      <description>TRACE &amp; COLLECT</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>088</accountType>
+      <description>Deceased Customers</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>089</accountType>
+      <description>LIQUIDATIONS</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>090</accountType>
+      <description>WESTCOT RECYLCLED PRIME</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>091</accountType>
+      <description>SME DEBT</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>092</accountType>
+      <description>SME AGENCY</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>093</accountType>
+      <description>SME LIQUIDATIONS</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>094</accountType>
+      <description>ZERO BALANCE ACNT TO INSIGHT</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>095</accountType>
+      <description>TRACE</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>096</accountType>
+      <description>FIELDFORCE COLLECTIONS</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>097</accountType>
+      <description>LEGAL IN HOUSE</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>098</accountType>
+      <description>AGENCY ACCOUNT</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>099</accountType>
+      <description>BAD DEBT WRITE OFF</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>100</accountType>
+      <description>UNALLOCATED ACCOUNTS</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>101</accountType>
+      <description>Charges For Unreturned H/ware</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>102</accountType>
+      <description>SME LIVE/ADMIN REC</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>103</accountType>
+      <description>SME GONEAWAYS</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>104</accountType>
+      <description>IBM CORPORATE</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>105</accountType>
+      <description>IBM BUSINESS INDIVIDUAL</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>106</accountType>
+      <description>SELECT ACQUISITIONS</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>107</accountType>
+      <description>PLATINUM VIP</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>108</accountType>
+      <description>ARMED FORCES</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>109</accountType>
+      <description>CELLOPS</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>110</accountType>
+      <description>CLEANAWAY AUTO CC</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>111</accountType>
+      <description>INTERNAL USERS</description>
+      <segment>O2 Own Us</segment>
+   </Account>
+   <Account>
+      <accountType>112</accountType>
+      <description>WESCOT PROMISED TO PAY-35%</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>113</accountType>
+      <description>WESCOT GOLegalY-50%</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>114</accountType>
+      <description>WESCOT ARREARS DR-50%</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>115</accountType>
+      <description>WESCOT CR DR-50%</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>116</accountType>
+      <description>B4B >6   (30 days bill terms)</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>117</accountType>
+      <description>B4B &lt;6</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>118</accountType>
+      <description>B4B Corporate</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>119</accountType>
+      <description>GONEAWAY DISCONNS ARREARS</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>120</accountType>
+      <description>Corp B4B stb</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>121</accountType>
+      <description>Corporate Legal</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>122</accountType>
+      <description>BUSINESS PARTNERS Write off</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>123</accountType>
+      <description>O2 Partners Non Auto</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>124</accountType>
+      <description>Ind Channel Leeds/Dise</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>125</accountType>
+      <description>LEEDS PREMIUM 2</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>126</accountType>
+      <description>LEEDS PREMIUM 1</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>127</accountType>
+      <description>LEEDS CORPORATE</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>128</accountType>
+      <description>LEEDS SME</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>129</accountType>
+      <description>LEEDS NEW DISE A/Cs</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>130</accountType>
+      <description>CORP ADMIN</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>131</accountType>
+      <description>FINANCE TITAN ACCOUNTS</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>132</accountType>
+      <description>Corporate Debt Recovery</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>133</accountType>
+      <description>CORP LIQUIDATIONS</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>134</accountType>
+      <description>Agency 2nd</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>135</accountType>
+      <description>AMEX ARREARS</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>136</accountType>
+      <description>860 HIGH RISK</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>137</accountType>
+      <description>SME PAYMENT PLAN LIVE</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>138</accountType>
+      <description>SME PAYMENT PLAN DISC</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>139</accountType>
+      <description>SME INTENSIVE CARE</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>140</accountType>
+      <description>O2 Voda - Consumer</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>141</accountType>
+      <description>Business Collections Pre-DR</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>142</accountType>
+      <description>Business Collections DR</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>143</accountType>
+      <description>Nestle Auto</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>144</accountType>
+      <description>BUSINESS DCA</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>145</accountType>
+      <description>O2 Voda - SME</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>146</accountType>
+      <description>CONSUMER COL</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>147</accountType>
+      <description>SME COL</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>148</accountType>
+      <description>CORPORATE COL</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>149</accountType>
+      <description>Cons Multiple handsets</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>150</accountType>
+      <description>Post Voda OUT Migration</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>151</accountType>
+      <description>O2 Partners 08702203303</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>152</accountType>
+      <description>Wholesale SMS - PTM Only</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>153</accountType>
+      <description>Wholesale SMS - PTM &amp; LTM</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>154</accountType>
+      <description>BP ISP</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>155</accountType>
+      <description>SME Cust Request Disconn</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>156</accountType>
+      <description>SME Debt Rec Cust Req Disc</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>157</accountType>
+      <description>Corp SME Agency</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>158</accountType>
+      <description>Corp SME write off</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>160</accountType>
+      <description>LIVE > $300</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>161</accountType>
+      <description>ARREARS DISC > $300</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>162</accountType>
+      <description>VOLUN DISC > $300</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>163</accountType>
+      <description>LIVE 60 + &lt; $300</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>164</accountType>
+      <description>ARREARS DISC &lt; $300/60 DAYS</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>165</accountType>
+      <description>VOLUN DISC &lt; $300</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>166</accountType>
+      <description>LIVE DISC &lt; 60 DAYS / $300</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>167</accountType>
+      <description>ARREARS DISC > $300 /60 DAYS</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>168</accountType>
+      <description>VOLUN DISC >60 DAYS &lt; $300</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>169</accountType>
+      <description>SAINSBURY SAMPLE</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>170</accountType>
+      <description>SME HIGH RISK</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>171</accountType>
+      <description>Siemens Consol/VIP Accounts</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>172</accountType>
+      <description>ANGLIAN END-USER</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>173</accountType>
+      <description>IT PARTNERS</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>174</accountType>
+      <description>Full and Final</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>175</accountType>
+      <description>Corporate Write-off</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>176</accountType>
+      <description>VSP Debt Recovery - 70% Prov</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>177</accountType>
+      <description>VSP Uncollectable - 100% Prov</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>178</accountType>
+      <description>CDL - 100% Provision</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>179</accountType>
+      <description>CSL</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>180</accountType>
+      <description>Siemens End User Accounts</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>181</accountType>
+      <description>AT&amp;T</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>182</accountType>
+      <description>SME Super High</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>183</accountType>
+      <description>SME High</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>184</accountType>
+      <description>SME Low Medium</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>185</accountType>
+      <description>PPG Industries</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>186</accountType>
+      <description>HONDA DEALERS</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>187</accountType>
+      <description>OGC CORPORATE - Auto</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>188</accountType>
+      <description>OGC SME - Auto</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>189</accountType>
+      <description>OGC CORPORATE - Manual</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>190</accountType>
+      <description>OGC SME - Manual</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>191</accountType>
+      <description>ICH SME</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>192</accountType>
+      <description>ICH SME Best for Business</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>193</accountType>
+      <description>Corporate RCH</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>194</accountType>
+      <description>AMEX</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>195</accountType>
+      <description>Jupiter SME</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>196</accountType>
+      <description>Jupiter CORP</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>197</accountType>
+      <description>BAE</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>198</accountType>
+      <description>Airbus</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>199</accountType>
+      <description>Stubbed Account</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>200</accountType>
+      <description>CDL DISCONNECTED DEBIT BALANCE</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>201</accountType>
+      <description>O2 X CLUB</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>202</accountType>
+      <description>CLEARVIEW</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>203</accountType>
+      <description>END USER SMS</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>204</accountType>
+      <description>END USER VOICE CLIP</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>205</accountType>
+      <description>MULTI SPREAD SHEET BILLING</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>206</accountType>
+      <description>CITIGROUP</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>207</accountType>
+      <description>DIAGEO PLC</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>208</accountType>
+      <description>DIAGEO VIP</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>209</accountType>
+      <description>SME Premium</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>210</accountType>
+      <description>SME Premium end user</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>211</accountType>
+      <description>MERRILL LYNCH</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>212</accountType>
+      <description>DO NOT USE</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>213</accountType>
+      <description>VIP CUSTOMERS</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>222</accountType>
+      <description>POLICE QUERIES</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>226</accountType>
+      <description>NATIONAL INDIVIDUAL USER</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>227</accountType>
+      <description>CORPORATE INDIVIDUAL USER</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>228</accountType>
+      <description>SMALL BUSINESS INDIVIDUAL USER</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>230</accountType>
+      <description>BP- O2 UK Ltd LLOYDS</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>231</accountType>
+      <description>JUC Corp Fixed</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>232</accountType>
+      <description>JUC Corp BB</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>233</accountType>
+      <description>JUC Corp Circuit</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>234</accountType>
+      <description>JUC Bus Fixed</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>235</accountType>
+      <description>JUC Bus BB</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>236</accountType>
+      <description>JUC Bus Circuit</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>237</accountType>
+      <description>JUC Prem Bus Fixed</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>238</accountType>
+      <description>JUC Prem Bus BB</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>239</accountType>
+      <description>JUC Prem Bus Circuit</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>240</accountType>
+      <description>JUC Cons Sme Fixed</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>241</accountType>
+      <description>JUC Cons SME BB</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>242</accountType>
+      <description>JUC Cons SME Circuit</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>243</accountType>
+      <description>JUC Corp Single Fixed</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>244</accountType>
+      <description>JUC Corp Single BB</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>245</accountType>
+      <description>JUC Corp Single Circuit</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>246</accountType>
+      <description>JUC Prem Bus Single Fixed</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>247</accountType>
+      <description>JUC Prem Bus Single BB</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>248</accountType>
+      <description>JUC Prem Bus Single Circuit</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>249</accountType>
+      <description>JUC Corporate One Bill</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>250</accountType>
+      <description>JUC Business One Bill</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>251</accountType>
+      <description>JUC Prem Bus One Bill</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>252</accountType>
+      <description>JUC Cons Sme One Bill</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>253</accountType>
+      <description>JUC Corp Single One Bill</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>254</accountType>
+      <description>JUC Prem Bus Single One Bill</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>255</accountType>
+      <description>MASS RETAIL</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>256</accountType>
+      <description>Direct Independent/Distributor</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>257</accountType>
+      <description>FRANCHISE</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>258</accountType>
+      <description>ISP</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>259</accountType>
+      <description>INTERCO HARDWARE</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>269</accountType>
+      <description>LME Business</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>270</accountType>
+      <description>LME End User</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>271</accountType>
+      <description>LME Business-Partners</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>300</accountType>
+      <description>B4B &lt;6 no SCARS feed</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>306</accountType>
+      <description>B4B >6 no SCARS feed</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>328</accountType>
+      <description>BRITVIC</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>330</accountType>
+      <description>BP - O2 UK Ltd VODA</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>333</accountType>
+      <description>BONDS</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>364</accountType>
+      <description>AUDIO</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>402</accountType>
+      <description>ACCOUNT EXECUTIVE</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>430</accountType>
+      <description>BT/BP - SME</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>444</accountType>
+      <description>INTERGROUP</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>464</accountType>
+      <description>SPECIAL REQUIREMENTS</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>500</accountType>
+      <description>SME &lt;6 no SCARS</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>506</accountType>
+      <description>SME >6 no SCARS</description>
+      <segment>SME</segment>
+   </Account>
+   <Account>
+      <accountType>555</accountType>
+      <description>EXPERIAN ACCOUNTS FOUND</description>
+      <segment>Consumer</segment>
+   </Account>
+   <Account>
+      <accountType>666</accountType>
+      <description>CREDIT BALANCES</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>777</accountType>
+      <description>EXPENSES</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>888</accountType>
+      <description>PURCHASE LEDGER</description>
+      <segment>Unknown</segment>
+   </Account>
+   <Account>
+      <accountType>999</accountType>
+      <description>COMMISSIONS LEDGER</description>
+      <segment>Unknown</segment>
+   </Account>
+</Accounts>

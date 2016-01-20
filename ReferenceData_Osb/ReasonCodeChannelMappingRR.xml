@@ -1,0 +1,75 @@
+<!--Date          Change#      	  Author             Change Description-->
+<!--07/09/2015    1.0.0           Rani Eshwar   	  Added channel "Online" for reasonCodes(101,102,103,104) and removed reasonCodes(105,106)
+                                                      as part of Customer Right Act(CRA) Changes.-->
+
+
+<reasonCodeChannelDetails>
+   <reasonCodeChannel>
+      <reasonCode>101</reasonCode>
+      <channels>Torex,torexfranchise,Online</channels>
+   </reasonCodeChannel>
+   <reasonCodeChannel>
+      <reasonCode>102</reasonCode>
+      <channels>Torex,ARShop,torexfranchise,Online</channels>
+   </reasonCodeChannel>
+   <reasonCodeChannel>
+      <reasonCode>103</reasonCode>
+      <channels>Torex,torexfranchise,Online</channels>
+   </reasonCodeChannel>
+   <reasonCodeChannel>
+      <reasonCode>104</reasonCode>
+      <channels>Torex,ARShop,torexfranchise,Online</channels>
+   </reasonCodeChannel>
+   <!--<reasonCodeChannel>
+      <reasonCode>105</reasonCode>
+      <channels>Torex,torexfranchise</channels>
+   </reasonCodeChannel>
+   <reasonCodeChannel>
+      <reasonCode>106</reasonCode>
+      <channels>Torex,ARShop,torexfranchise</channels>
+   </reasonCodeChannel>-->
+   <reasonCodeChannel>  
+      <reasonCode>107</reasonCode>
+      <channels>Torex,torexfranchise</channels>
+   </reasonCodeChannel>
+   <reasonCodeChannel>
+      <reasonCode>108</reasonCode>
+      <channels>Torex,ARShop,torexfranchise</channels>
+   </reasonCodeChannel>
+   <reasonCodeChannel>
+      <reasonCode>111</reasonCode>
+      <channels>ARShop</channels>
+   </reasonCodeChannel>
+   <reasonCodeChannel>
+      <reasonCode>112</reasonCode>
+      <channels>Torex,ARShop,torexfranchise</channels>
+   </reasonCodeChannel>
+   <reasonCodeChannel>
+      <reasonCode>113</reasonCode>
+      <channels>ARShop</channels>
+   </reasonCodeChannel>
+   <reasonCodeChannel>
+      <reasonCode>121</reasonCode>
+      <channels>NDC</channels>
+   </reasonCodeChannel>
+   <reasonCodeChannel>
+      <reasonCode>122</reasonCode>
+      <channels>NDC</channels>
+   </reasonCodeChannel>
+   <reasonCodeChannel>
+      <reasonCode>123</reasonCode>
+      <channels>NDC</channels>
+   </reasonCodeChannel>
+   <reasonCodeChannel>
+      <reasonCode>150</reasonCode>
+      <channels>Torex,ARShop,torexfranchise</channels>
+   </reasonCodeChannel>
+   <reasonCodeChannel>
+      <reasonCode>124</reasonCode>
+      <channels>NDC</channels>
+   </reasonCodeChannel>
+   <reasonCodeChannel>
+      <reasonCode>125</reasonCode>
+      <channels>NDC</channels>
+   </reasonCodeChannel>
+</reasonCodeChannelDetails>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidateOrderChannelAndAllowedOrdersMapping>
+	<ValidateOrderChannelAndAllowedOrders>
+		<channel>SYNERGY</channel>
+		<numberOfOrdersAllowed>5</numberOfOrdersAllowed>
+	</ValidateOrderChannelAndAllowedOrders>	
+	<ValidateOrderChannelAndAllowedOrders>
+		<channel>UNKNOWN</channel>
+		<numberOfOrdersAllowed>10</numberOfOrdersAllowed>
+	</ValidateOrderChannelAndAllowedOrders>	
+</ValidateOrderChannelAndAllowedOrdersMapping>

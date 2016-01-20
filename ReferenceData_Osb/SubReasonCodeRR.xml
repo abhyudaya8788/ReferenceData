@@ -1,0 +1,128 @@
+<subReasonCodes>
+	<subReasonCodeDetails>
+		<subReasonCode>2</subReasonCode>
+		<description>Back to old contract</description>
+	</subReasonCodeDetails>
+	<subReasonCodeDetails>
+		<subReasonCode>3</subReasonCode>
+		<description>Backlight fault</description>
+	</subReasonCodeDetails>
+	<subReasonCodeDetails>
+		<subReasonCode>4</subReasonCode>
+		<description>Better offer elsewhere</description>
+	</subReasonCodeDetails>
+	<subReasonCodeDetails>
+		<subReasonCode>5</subReasonCode>
+		<description>Camera not working</description>
+	</subReasonCodeDetails>
+	<subReasonCodeDetails>
+		<subReasonCode>7</subReasonCode>
+		<description>Cracked display</description>
+	</subReasonCodeDetails>
+	<subReasonCodeDetails>
+		<subReasonCode>8</subReasonCode>
+		<description>Customer unable to take delivery</description>
+	</subReasonCodeDetails>
+	<subReasonCodeDetails>
+		<subReasonCode>9</subReasonCode>
+		<description>Not suitable for customer needs</description>
+	</subReasonCodeDetails>
+	<subReasonCodeDetails>
+		<subReasonCode>10</subReasonCode>
+		<description>Device returned for insurance reasons</description>
+	</subReasonCodeDetails>
+	<subReasonCodeDetails>
+		<subReasonCode>11</subReasonCode>
+		<description>
+			Exchange out of policy due to product recall
+		</description>
+	</subReasonCodeDetails>
+	<subReasonCodeDetails>
+		<subReasonCode>12</subReasonCode>
+		<description>Faint display</description>
+	</subReasonCodeDetails>
+	<subReasonCodeDetails>
+		<subReasonCode>16</subReasonCode>
+		<description>Keypad fault</description>
+	</subReasonCodeDetails>
+	<subReasonCodeDetails>
+		<subReasonCode>17</subReasonCode>
+		<description>Locks up</description>
+	</subReasonCodeDetails>
+	<subReasonCodeDetails>
+		<subReasonCode>19</subReasonCode>
+		<description>No display</description>
+	</subReasonCodeDetails>	
+	<subReasonCodeDetails>
+		<subReasonCode>20</subReasonCode>
+		<description>No earpiece audio</description>
+	</subReasonCodeDetails>
+	<subReasonCodeDetails>
+		<subReasonCode>21</subReasonCode>
+		<description>No mic audio</description>
+	</subReasonCodeDetails>
+	<subReasonCodeDetails>
+		<subReasonCode>22</subReasonCode>
+		<description>No power</description>
+	</subReasonCodeDetails>
+	<subReasonCodeDetails>
+		<subReasonCode>23</subReasonCode>
+		<description>No service</description>
+	</subReasonCodeDetails>
+	<subReasonCodeDetails>
+		<subReasonCode>24</subReasonCode>
+		<description>Not charging</description>
+	</subReasonCodeDetails>
+	<subReasonCodeDetails>
+		<subReasonCode>25</subReasonCode>
+		<description>Other</description>
+	</subReasonCodeDetails>
+	<subReasonCodeDetails>
+		<subReasonCode>27</subReasonCode>
+		<description>Powers off</description>
+	</subReasonCodeDetails>
+	<subReasonCodeDetails>
+		<subReasonCode>28</subReasonCode>
+		<description>Product damaged during delivery</description>
+	</subReasonCodeDetails>	
+	<subReasonCodeDetails>
+		<subReasonCode>30</subReasonCode>
+		<description>Returned due to fraudulent activity</description>
+	</subReasonCodeDetails>	
+	<subReasonCodeDetails>
+		<subReasonCode>41</subReasonCode>
+		<description>Exchange</description>
+	</subReasonCodeDetails>	
+	<subReasonCodeDetails>
+		<subReasonCode>51</subReasonCode>
+		<description>Price</description>
+	</subReasonCodeDetails>
+	<subReasonCodeDetails>
+		<subReasonCode>52</subReasonCode>
+		<description>Installation Failed</description>
+	</subReasonCodeDetails>
+	<subReasonCodeDetails>
+		<subReasonCode>53</subReasonCode>
+		<description>Network Speed</description>
+	</subReasonCodeDetails>
+	<subReasonCodeDetails>
+		<subReasonCode>54</subReasonCode>
+		<description>Performance Issues</description>
+	</subReasonCodeDetails>
+	<subReasonCodeDetails>
+		<subReasonCode>55</subReasonCode>
+		<description>USB Modem Faulty</description>
+	</subReasonCodeDetails>
+	<subReasonCodeDetails>
+		<subReasonCode>56</subReasonCode>
+		<description>Coverage Issues</description>
+	</subReasonCodeDetails>
+	<subReasonCodeDetails>
+		<subReasonCode>57</subReasonCode>
+		<description>1-4 Day STK Avail</description>
+	</subReasonCodeDetails>
+	<subReasonCodeDetails>
+		<subReasonCode>58</subReasonCode>
+		<description>Other Please Specify</description>
+	</subReasonCodeDetails>	
+</subReasonCodes>

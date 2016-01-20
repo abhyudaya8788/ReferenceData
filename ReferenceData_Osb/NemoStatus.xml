@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nemoStatus>
+	<!-- The inputs and outputs from business service should always contain the descriptive ones and the short codes should be used when acessing entity services -->
+		<status>
+				<description>Active</description>
+				<shortCode>AC</shortCode>
+		</status>
+		<status>
+				<description>Suspended</description>
+				<shortCode>SP</shortCode>
+		</status>
+		<status>
+				<description>Rejected</description>
+				<shortCode>RJ</shortCode>
+		</status>		
+		<status>
+				<description>Pending Addition</description>
+				<shortCode>PDA</shortCode>
+		</status>
+		<status>
+				<description>Unknown</description>
+				<shortCode>UN</shortCode>
+		</status>						
+		<status>
+				<description>Removed</description>
+				<shortCode>RD</shortCode>
+		</status>
+		<status>
+				<description>Pending Change</description>
+				<shortCode>PDC</shortCode>
+		</status>
+		<status>
+				<description>Pending Removal</description>
+				<shortCode>PDR</shortCode>
+		</status>
+</nemoStatus>

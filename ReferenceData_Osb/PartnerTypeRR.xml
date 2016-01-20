@@ -1,0 +1,80 @@
+<partnerDetails>
+	<partner>
+		<value>agent</value>
+		<description>Agent shop(replacement)</description>
+		<directIndirect>D</directIndirect>
+		<code>ARS</code>
+	</partner>
+	<partner>
+		<value>consumer</value>
+		<description>Online Customer</description>
+		<directIndirect>D</directIndirect>
+		<code>OLS</code>
+	</partner>
+	<partner>
+		<value>CPW</value>
+		<description>Carphone Warehouse</description>
+		<directIndirect>I</directIndirect>
+		<code>CPW</code>
+	</partner>
+	<partner>
+		<value>esme</value>
+		<description>Esme(not consumer)</description>
+		<directIndirect>D</directIndirect>
+		<code>ESM</code>
+	</partner>
+	<partner>
+		<value>LBM2_in</value>
+		<description>Telesales-Customer initiated</description>
+		<directIndirect>D</directIndirect>
+		<code>LBI</code>
+	</partner>
+	<partner>
+		<value>LBM2_out</value>
+		<description>Telesales-O2 initiated</description>
+		<directIndirect>D</directIndirect>
+		<code>LBO</code>
+	</partner>
+	<partner>
+		<value>Mass_Distribution</value>
+		<description>Mass distribution shop(sim bundles)</description>
+		<directIndirect>D</directIndirect>
+		<code>MDS</code>
+	</partner>
+	<partner>
+		<value>PHONES4U</value>
+		<description>Phones 4 U</description>
+		<directIndirect>I</directIndirect>
+		<code>P4U</code>
+	</partner>
+	<partner>
+		<value>retail_shop</value>
+		<description>O2 retail stores</description>
+		<directIndirect>D</directIndirect>
+		<code>O2R</code>
+	</partner>
+	<partner>
+		<value>TESCO</value>
+		<description>Tesco</description>
+		<directIndirect>I</directIndirect>
+		<code>TCO</code>
+	</partner>
+	<partner>
+		<value>upgrade_consumer</value>
+		<description>Upgrade via online shop</description>
+		<directIndirect>D</directIndirect>
+		<code>OLU</code>
+	</partner>
+	<partner>
+		<value>upgrade_csa</value>
+		<description>Upgrade via agent</description>
+		<directIndirect>D</directIndirect>
+		<code>AUS</code>
+	</partner>
+	<partner>
+		<value>Synergy_PayAndGo</value>
+		<description>Prepay Orders via Synergy HOPS</description>
+		<directIndirect>D</directIndirect>
+		<code>SPG</code>
+	</partner>
+</partnerDetails>

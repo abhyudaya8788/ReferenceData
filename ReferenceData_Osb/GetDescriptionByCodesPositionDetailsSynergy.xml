@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This xml contains the reference data file positions against the elementName passed in input.
+	Each name is associated with their column positions both for code and its description to be picked up from reference data file -->
+<getDescriptionByCodesPositionDetails>
+	<getDescriptionByCodesPosition>
+			<elementName>EVENTTYPE</elementName>
+			<codeStartPosition>0</codeStartPosition>
+			<codeEndPosition>4</codeEndPosition>
+			<descriptionStartPosition>5</descriptionStartPosition>
+			<descriptionEndPosition>30</descriptionEndPosition>
+	</getDescriptionByCodesPosition>
+	<getDescriptionByCodesPosition>
+			<elementName>EVENT_TYPE_CODE</elementName>
+			<codeStartPosition>5</codeStartPosition>
+			<codeEndPosition>9</codeEndPosition>
+			<descriptionStartPosition>91</descriptionStartPosition>
+			<descriptionEndPosition>116</descriptionEndPosition>
+			<firstSubColumn>
+				<startPosition>0</startPosition>
+				<endPosition>4</endPosition>
+			</firstSubColumn>
+	</getDescriptionByCodesPosition>
+	<getDescriptionByCodesPosition>
+			<elementName>REASONCODE</elementName>
+			<codeStartPosition>0</codeStartPosition>
+			<codeEndPosition>4</codeEndPosition>
+			<descriptionStartPosition>12</descriptionStartPosition>
+			<descriptionEndPosition>42</descriptionEndPosition>
+	</getDescriptionByCodesPosition>
+	<getDescriptionByCodesPosition>
+			<elementName>CALLCLASSIFICATION</elementName>
+			<codeStartPosition>7</codeStartPosition>
+			<codeEndPosition>19</codeEndPosition>
+			<descriptionStartPosition>20</descriptionStartPosition>
+			<descriptionEndPosition>50</descriptionEndPosition>
+			<firstSubColumn>
+				<startPosition>0</startPosition>
+				<endPosition>6</endPosition>
+			</firstSubColumn>
+	</getDescriptionByCodesPosition>	
+</getDescriptionByCodesPositionDetails>

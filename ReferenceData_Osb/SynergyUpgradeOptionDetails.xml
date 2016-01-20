@@ -1,0 +1,531 @@
+<UpgradeOptions>
+	<UpgradeOption>
+		<contractType>Pre 2/10 direct handset contracts</contractType>
+		<Stage>
+			<stageName>Pre upgrade</stageName>
+			<Options>
+				<name>SIMO / Re-sign credit</name>
+				<value>N</value>
+			</Options>
+			<Options>
+				<name>Simplicity</name>
+				<value>N</value>
+			</Options>
+			<Options>
+				<name>Re-sign without Kit</name>
+				<value>Y</value>
+				<notes>Pre Feb 2010 $</notes>
+			</Options>
+			<Options>
+				<name>Mid term with 12 month contract</name>
+				<value>O</value>
+				<notes>Pre Feb 2010 $</notes>
+			</Options>
+			<Options>
+				<name>Re-sign with Kit</name>
+				<value>O</value>
+				<notes>Pre Feb 2010 $</notes>
+			</Options>
+		</Stage>
+		<Stage>
+			<stageName>Upgrade due</stageName>
+			<Options>
+				<name>SIMO / Re-sign credit</name>
+				<value>Y</value>
+				<notes>Pre Feb 2010 $</notes>
+			</Options>
+			<Options>
+				<name>Simplicity</name>
+				<value>N</value>
+			</Options>
+			<Options>
+				<name>Re-sign without Kit</name>
+				<value>Y</value>
+				<notes>Pre Feb 2010 $</notes>
+			</Options>
+			<Options>
+				<name>Mid term with 12 month contract</name>
+				<value>Y</value>
+				<notes>Pre Feb 2010 $</notes>
+			</Options>
+			<Options>
+				<name>Re-sign with Kit</name>
+				<value>Y</value>
+				<notes>Pre Feb 2010 $</notes>
+			</Options>
+		</Stage>
+		<Stage>
+			<stageName>Last month</stageName>
+			<Options>
+				<name>SIMO / Re-sign credit</name>
+				<value>Y</value>
+				<notes>Pre Feb 2010 $</notes>
+			</Options>
+			<Options>
+				<name>Simplicity</name>
+				<value>N</value>
+			</Options>
+			<Options>
+				<name>Re-sign without Kit</name>
+				<value>Y</value>
+				<notes>Pre Feb 2010 $</notes>
+			</Options>
+			<Options>
+				<name>Mid term with 12 month contract</name>
+				<value>N</value>
+			</Options>
+			<Options>
+				<name>Re-sign with Kit</name>
+				<value>Y</value>
+				<notes>Pre Feb 2010 $</notes>
+			</Options>
+		</Stage>
+		<Stage>
+			<stageName>Expired</stageName>
+			<Options>
+				<name>SIMO / Re-sign credit</name>
+				<value>Y</value>
+				<notes>Pre Feb 2010 $</notes>
+			</Options>
+			<Options>
+				<name>Simplicity</name>
+				<value>Y</value>
+				<notes>Pre Feb 2010 $</notes>
+			</Options>
+			<Options>
+				<name>Re-sign without Kit</name>
+				<value>Y</value>
+				<notes>Pre Feb 2010 $</notes>
+			</Options>
+			<Options>
+				<name>Mid term with 12 month contract</name>
+				<value>N</value>
+			</Options>
+			<Options>
+				<name>Re-sign with Kit</name>
+				<value>Y</value>
+				<notes>Pre Feb 2010 $</notes>
+			</Options>
+		</Stage>
+	</UpgradeOption>
+	<UpgradeOption>
+		<contractType>Pre 2/11 direct handset contracts</contractType>
+		<Stage>
+			<stageName>Pre upgrade</stageName>
+			<Options>
+				<name>SIMO / Re-sign credit</name>
+				<value>N</value>
+			</Options>
+			<Options>
+				<name>Simplicity</name>
+				<value>N</value>
+			</Options>
+			<Options>
+				<name>Re-sign without Kit</name>
+				<value>Y</value>
+				<notes>Pre Mar 2011 $</notes>
+			</Options>
+			<Options>
+				<name>Mid term with 12 month contract</name>
+				<value>N</value>
+			</Options>
+			<Options>
+				<name>Re-sign with Kit</name>
+				<value>O</value>
+				<notes>Pre Mar 2011 $</notes>
+			</Options>
+		</Stage>
+		<Stage>
+			<stageName>Upgrade due</stageName>
+			<Options>
+				<name>SIMO / Re-sign credit</name>
+				<value>Y</value>
+				<notes>Pre Mar 2011 $</notes>
+			</Options>
+			<Options>
+				<name>Simplicity</name>
+				<value>N</value>
+			</Options>
+			<Options>
+				<name>Re-sign without Kit</name>
+				<value>Y</value>
+				<notes>Pre Mar 2011 $</notes>
+			</Options>
+			<Options>
+				<name>Mid term with 12 month contract</name>
+				<value>N</value>
+			</Options>
+			<Options>
+				<name>Re-sign with Kit</name>
+				<value>Y</value>
+				<notes>Pre Mar 2011 $</notes>
+			</Options>
+		</Stage>
+		<Stage>
+			<stageName>Last month</stageName>
+			<Options>
+				<name>SIMO / Re-sign credit</name>
+				<value>Y</value>
+				<notes>Pre Mar 2011 $</notes>
+			</Options>
+			<Options>
+				<name>Simplicity</name>
+				<value>N</value>
+			</Options>
+			<Options>
+				<name>Re-sign without Kit</name>
+				<value>Y</value>
+				<notes>Pre Mar 2011 $</notes>
+			</Options>
+			<Options>
+				<name>Mid term with 12 month contract</name>
+				<value>N</value>
+			</Options>
+			<Options>
+				<name>Re-sign with Kit</name>
+				<value>Y</value>
+				<notes>Pre Mar 2011 $</notes>
+			</Options>
+		</Stage>
+		<Stage>
+			<stageName>Expired</stageName>
+			<Options>
+				<name>SIMO / Re-sign credit</name>
+				<value>Y</value>
+				<notes>Pre Mar 2011 $</notes>
+			</Options>
+			<Options>
+				<name>Simplicity</name>
+				<value>Y</value>
+				<notes>Pre Mar 2011 $</notes>
+			</Options>
+			<Options>
+				<name>Re-sign without Kit</name>
+				<value>Y</value>
+				<notes>Pre Mar 2011 $</notes>
+			</Options>
+			<Options>
+				<name>Mid term with 12 month contract</name>
+				<value>N</value>
+			</Options>
+			<Options>
+				<name>Re-sign with Kit</name>
+				<value>Y</value>
+				<notes>Pre Mar 2011 $</notes>
+			</Options>
+		</Stage>
+	</UpgradeOption>
+	<UpgradeOption>
+		<contractType>Post 2/11 direct handset contracts</contractType>
+		<Stage>
+			<stageName>Pre upgrade</stageName>
+			<Options>
+				<name>SIMO / Re-sign credit</name>
+				<value>N</value>
+			</Options>
+			<Options>
+				<name>Simplicity</name>
+				<value>N</value>
+			</Options>
+			<Options>
+				<name>Re-sign without Kit</name>
+				<value>Y</value>
+				<notes>Post Mar 2011 $</notes>
+			</Options>
+			<Options>
+				<name>Mid term with 12 month contract</name>
+				<value>N</value>
+			</Options>
+			<Options>
+				<name>Re-sign with Kit</name>
+				<value>O</value>
+				<notes>Post Mar 2011 $</notes>
+			</Options>
+		</Stage>
+		<Stage>
+			<stageName>Upgrade due</stageName>
+			<Options>
+				<name>SIMO / Re-sign credit</name>
+				<value>Y</value>
+				<notes>Post Mar 2011  $</notes>
+			</Options>
+			<Options>
+				<name>Simplicity</name>
+				<value>N</value>
+			</Options>
+			<Options>
+				<name>Re-sign without Kit</name>
+				<value>Y</value>
+				<notes>Post Mar 2011  $</notes>
+			</Options>
+			<Options>
+				<name>Mid term with 12 month contract</name>
+				<value>N</value>
+			</Options>
+			<Options>
+				<name>Re-sign with Kit</name>
+				<value>Y</value>
+				<notes>Post Mar 2011  $</notes>
+			</Options>
+		</Stage>
+		<Stage>
+			<stageName>Last month</stageName>
+			<Options>
+				<name>SIMO / Re-sign credit</name>
+				<value>Y</value>
+				<notes>Post Mar 2011 $</notes>
+			</Options>
+			<Options>
+				<name>Simplicity</name>
+				<value>N</value>
+			</Options>
+			<Options>
+				<name>Re-sign without Kit</name>
+				<value>Y</value>
+				<notes>Post Mar 2011 $</notes>
+			</Options>
+			<Options>
+				<name>Mid term with 12 month contract</name>
+				<value>N</value>
+			</Options>
+			<Options>
+				<name>Re-sign with Kit</name>
+				<value>Y</value>
+				<notes>Post Mar 2011 $</notes>
+			</Options>
+		</Stage>
+		<Stage>
+			<stageName>Expired</stageName>
+			<Options>
+				<name>SIMO / Re-sign credit</name>
+				<value>Y</value>
+				<notes>Post Mar 2011 $</notes>
+			</Options>
+			<Options>
+				<name>Simplicity</name>
+				<value>Y</value>
+				<notes>Post Mar 2011 $</notes>
+			</Options>
+			<Options>
+				<name>Re-sign without Kit</name>
+				<value>Y</value>
+				<notes>Post Mar 2011 $</notes>
+			</Options>
+			<Options>
+				<name>Mid term with 12 month contract</name>
+				<value>N</value>
+			</Options>
+			<Options>
+				<name>Re-sign with Kit</name>
+				<value>Y</value>
+				<notes>Post Mar 2011 $</notes>
+			</Options>
+		</Stage>
+	</UpgradeOption>
+	<UpgradeOption>
+		<contractType>SIMO direct contracts</contractType>
+		<Stage>
+			<stageName>Pre upgrade</stageName>
+			<Options>
+				<name>SIMO / Re-sign credit</name>
+				<value>Y</value>
+				<notes>SIMO $</notes>
+			</Options>
+			<Options>
+				<name>Simplicity</name>
+				<value>N</value>
+			</Options>
+			<Options>
+				<name>Re-sign without Kit</name>
+				<value>Y</value>
+				<notes>SIMO $</notes>
+			</Options>
+			<Options>
+				<name>Mid term with 12 month contract</name>
+				<value>N</value>
+			</Options>
+			<Options>
+				<name>Re-sign with Kit</name>
+				<value>O</value>
+				<notes>SIMO $</notes>
+			</Options>
+		</Stage>
+		<Stage>
+			<stageName>Upgrade due</stageName>
+			<Options>
+				<name>SIMO / Re-sign credit</name>
+				<value>Y</value>
+				<notes>SIMO $</notes>
+			</Options>
+			<Options>
+				<name>Simplicity</name>
+				<value>N</value>
+			</Options>
+			<Options>
+				<name>Re-sign without Kit</name>
+				<value>Y</value>
+				<notes>SIMO $</notes>
+			</Options>
+			<Options>
+				<name>Mid term with 12 month contract</name>
+				<value>N</value>
+			</Options>
+			<Options>
+				<name>Re-sign with Kit</name>
+				<value>O</value>
+				<notes>SIMO $</notes>
+			</Options>
+		</Stage>
+		<Stage>
+			<stageName>Last month</stageName>
+			<Options>
+				<name>SIMO / Re-sign credit</name>
+				<value>Y</value>
+				<notes>SIMO $</notes>
+			</Options>
+			<Options>
+				<name>Simplicity</name>
+				<value>N</value>
+			</Options>
+			<Options>
+				<name>Re-sign without Kit</name>
+				<value>Y</value>
+				<notes>SIMO $</notes>
+			</Options>
+			<Options>
+				<name>Mid term with 12 month contract</name>
+				<value>N</value>
+			</Options>
+			<Options>
+				<name>Re-sign with Kit</name>
+				<value>O</value>
+				<notes>SIMO $</notes>
+			</Options>
+		</Stage>
+		<Stage>
+			<stageName>Expired</stageName>
+			<Options>
+				<name>SIMO / Re-sign credit</name>
+				<value>Y</value>
+				<notes>SIMO $</notes>
+			</Options>
+			<Options>
+				<name>Simplicity</name>
+				<value>Y</value>
+				<notes>SIMO $</notes>
+			</Options>
+			<Options>
+				<name>Re-sign without Kit</name>
+				<value>Y</value>
+				<notes>SIMO $</notes>
+			</Options>
+			<Options>
+				<name>Mid term with 12 month contract</name>
+				<value>N</value>
+			</Options>
+			<Options>
+				<name>Re-sign with Kit</name>
+				<value>O</value>
+				<notes>SIMO $</notes>
+			</Options>
+		</Stage>
+	</UpgradeOption>
+	<UpgradeOption>
+		<contractType>Simplicity direct contracts</contractType>
+		<Stage>
+			<stageName>Pre upgrade</stageName>
+			<Options>
+				<name>SIMO / Re-sign credit</name>
+				<value></value>
+			</Options>
+			<Options>
+				<name>Simplicity</name>
+				<value></value>
+			</Options>
+			<Options>
+				<name>Re-sign without Kit</name>
+				<value></value>
+			</Options>
+			<Options>
+				<name>Mid term with 12 month contract</name>
+				<value></value>
+			</Options>
+			<Options>
+				<name>Re-sign with Kit</name>
+				<value></value>
+			</Options>
+		</Stage>
+		<Stage>
+			<stageName>Upgrade due</stageName>
+			<Options>
+				<name>SIMO / Re-sign credit</name>
+				<value></value>
+			</Options>
+			<Options>
+				<name>Simplicity</name>
+				<value></value>
+			</Options>
+			<Options>
+				<name>Re-sign without Kit</name>
+				<value></value>
+			</Options>
+			<Options>
+				<name>Mid term with 12 month contract</name>
+				<value></value>
+			</Options>
+			<Options>
+				<name>Re-sign with Kit</name>
+				<value></value>
+			</Options>
+		</Stage>
+		<Stage>
+			<stageName>Last month</stageName>
+			<Options>
+				<name>SIMO / Re-sign credit</name>
+				<value>Y</value>
+				<notes>Simplicity $</notes>
+			</Options>
+			<Options>
+				<name>Simplicity</name>
+				<value>N</value>
+			</Options>
+			<Options>
+				<name>Re-sign without Kit</name>
+				<value>Y</value>
+				<notes>Simplicity $</notes>
+			</Options>
+			<Options>
+				<name>Mid term with 12 month contract</name>
+				<value>N</value>
+			</Options>
+			<Options>
+				<name>Re-sign with Kit</name>
+				<value>Y</value>
+				<notes>Simplicity $</notes>
+			</Options>
+		</Stage>
+		<Stage>
+			<stageName>Expired</stageName>
+			<Options>
+				<name>SIMO / Re-sign credit</name>
+				<value></value>
+			</Options>
+			<Options>
+				<name>Simplicity</name>
+				<value></value>
+			</Options>
+			<Options>
+				<name>Re-sign without Kit</name>
+				<value></value>
+			</Options>
+			<Options>
+				<name>Mid term with 12 month contract</name>
+				<value></value>
+			</Options>
+			<Options>
+				<name>Re-sign with Kit</name>
+				<value></value>
+			</Options>
+		</Stage>
+	</UpgradeOption>
+</UpgradeOptions>

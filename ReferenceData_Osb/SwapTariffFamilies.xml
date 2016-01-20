@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<swapTariffFamilies>
+<family><sourceFamily>SMART18</sourceFamily><destinationFamily>18M</destinationFamily></family>
+<family><sourceFamily>SMART24</sourceFamily><destinationFamily>24M</destinationFamily></family>
+<family><sourceFamily>24MLOWCOST</sourceFamily><destinationFamily>24M</destinationFamily></family>
+<family><sourceFamily>SIMO MASS</sourceFamily><destinationFamily>SIMO</destinationFamily></family>
+<family><sourceFamily>SIMOIPHONE</sourceFamily><destinationFamily>SIMO</destinationFamily></family>
+<family><sourceFamily>12M IPHONE</sourceFamily><destinationFamily>12M SIMO</destinationFamily></family>
+<family><sourceFamily>IPHONE</sourceFamily><destinationFamily>18M</destinationFamily></family>
+<family><sourceFamily>24M IPHONE</sourceFamily><destinationFamily>24M</destinationFamily></family>
+<family><sourceFamily>BBBONUS24M</sourceFamily><destinationFamily>24M</destinationFamily></family>
+</swapTariffFamilies>

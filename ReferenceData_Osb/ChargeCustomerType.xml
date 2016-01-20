@@ -1,0 +1,30 @@
+<chargeCustomerTypes>
+	<chargeCustomerType>
+		<chargeCustomerId>1</chargeCustomerId>
+		<description>Tethering</description>
+	</chargeCustomerType>
+	<chargeCustomerType>
+		<chargeCustomerId>2</chargeCustomerId>
+		<description>Truly Unlimited</description>
+	</chargeCustomerType>
+	<chargeCustomerType>
+		<chargeCustomerId>3</chargeCustomerId>
+		<description>Unlimited with Fair Use</description>
+	</chargeCustomerType>
+	<chargeCustomerType>
+		<chargeCustomerId>4</chargeCustomerId>
+		<description>Web Daily</description>
+	</chargeCustomerType>
+	<chargeCustomerType>
+		<chargeCustomerId>5</chargeCustomerId>
+		<description>Capped</description>
+	</chargeCustomerType>
+	<chargeCustomerType>
+		<chargeCustomerId>6</chargeCustomerId>
+		<description>Overage with allowance</description>
+	</chargeCustomerType>
+	<chargeCustomerType>
+		<chargeCustomerId>7</chargeCustomerId>
+		<description>Overage without allowance</description>
+	</chargeCustomerType>
+</chargeCustomerTypes>

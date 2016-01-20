@@ -1,0 +1,156 @@
+<AllowanceCategoryDetails>
+   <AllowanceCategoryDetail>
+      <category>INT</category>
+      <type>SECONDS</type>
+      <shortDescription>international mins</shortDescription>
+      <longDescription>International minutes</longDescription>
+      <orderIndex>70</orderIndex>
+   </AllowanceCategoryDetail>
+   <AllowanceCategoryDetail>
+      <category>LANDLINE</category>
+      <type>SECONDS</type>
+      <shortDescription>landline mins</shortDescription>
+      <longDescription>Landline, anytime minutes</longDescription>
+      <orderIndex>50</orderIndex>
+   </AllowanceCategoryDetail>
+   <AllowanceCategoryDetail>
+      <category>LONGWEEKEND</category>
+      <type>SECONDS</type>
+      <shortDescription>long wkend mins</shortDescription>
+      <longDescription>Long weekend minutes</longDescription>
+      <orderIndex>80</orderIndex>
+   </AllowanceCategoryDetail>
+   <AllowanceCategoryDetail>
+      <category>OFFPEAK</category>
+      <type>SECONDS</type>
+      <shortDescription>off-peak mins</shortDescription>
+      <longDescription>Off-peak, any network minutes</longDescription>
+      <orderIndex>30</orderIndex>
+   </AllowanceCategoryDetail>
+   <AllowanceCategoryDetail>
+      <category>ONNET</category>
+      <type>SECONDS</type>
+      <shortDescription>O2 to O2 mins</shortDescription>
+      <longDescription>O2 to O2, anytime minutes</longDescription>
+      <orderIndex>20</orderIndex>
+   </AllowanceCategoryDetail>
+   <AllowanceCategoryDetail>
+      <category>ONNETWKEND</category>
+      <type>SECONDS</type>
+      <shortDescription>O2 to O2 wkend mins</shortDescription>
+      <longDescription>O2 to O2, weekend minutes</longDescription>
+      <orderIndex>40</orderIndex>
+   </AllowanceCategoryDetail>
+   <AllowanceCategoryDetail>
+      <category>OTHER</category>
+      <type>SECONDS</type>
+      <shortDescription>other mins</shortDescription>
+      <longDescription>Other minutes</longDescription>
+      <orderIndex>110</orderIndex>
+   </AllowanceCategoryDetail>
+   <AllowanceCategoryDetail>
+      <category>UNRES</category>
+      <type>SECONDS</type>
+      <shortDescription>anytime any network mins</shortDescription>
+      <longDescription>Anytime, any network minutes</longDescription>
+      <orderIndex>10</orderIndex>
+   </AllowanceCategoryDetail>
+   <AllowanceCategoryDetail>
+      <category>VM</category>
+      <type>SECONDS</type>
+      <shortDescription>voicemail mins</shortDescription>
+      <longDescription>Voicemail minutes</longDescription>
+      <orderIndex>90</orderIndex>
+   </AllowanceCategoryDetail>
+   <AllowanceCategoryDetail>
+      <category>WAP</category>
+      <type>SECONDS</type>
+      <shortDescription>WAP mins</shortDescription>
+      <longDescription>WAP minutes</longDescription>
+      <orderIndex>100</orderIndex>
+   </AllowanceCategoryDetail>
+   <AllowanceCategoryDetail>
+      <category>WEEKEND</category>
+      <type>SECONDS</type>
+      <shortDescription>wkend mins</shortDescription>
+      <longDescription>Weekend, any network minutes</longDescription>
+      <orderIndex>60</orderIndex>
+   </AllowanceCategoryDetail>
+   <AllowanceCategoryDetail>
+      <category>LONGWEEKEND</category>
+      <type>MESSAGES</type>
+      <shortDescription>long wkend texts</shortDescription>
+      <longDescription>Long weekend texts</longDescription>
+      <orderIndex>160</orderIndex>
+   </AllowanceCategoryDetail>
+   <AllowanceCategoryDetail>
+      <category>MMS</category>
+      <type>MESSAGES</type>
+      <shortDescription>picture msgs</shortDescription>
+      <longDescription>Picture messages</longDescription>
+      <orderIndex>150</orderIndex>
+   </AllowanceCategoryDetail>
+   <AllowanceCategoryDetail>
+      <category>ONNETSMS</category>
+      <type>MESSAGES</type>
+      <shortDescription>O2 to O2 texts</shortDescription>
+      <longDescription>O2 to O2 text messages</longDescription>
+      <orderIndex>140</orderIndex>
+   </AllowanceCategoryDetail>
+   <AllowanceCategoryDetail>
+      <category>OTHER</category>
+      <type>MESSAGES</type>
+      <shortDescription>other msgs</shortDescription>
+      <longDescription>Other messages</longDescription>
+      <orderIndex>170</orderIndex>
+   </AllowanceCategoryDetail>
+   <AllowanceCategoryDetail>
+      <category>SMS</category>
+      <type>MESSAGES</type>
+      <shortDescription>texts</shortDescription>
+      <longDescription>Text messages</longDescription>
+      <orderIndex>130</orderIndex>
+   </AllowanceCategoryDetail>
+   <AllowanceCategoryDetail>
+      <category>UNRES</category>
+      <type>MESSAGES</type>
+      <shortDescription>msgs</shortDescription>
+      <longDescription>Text messages</longDescription>
+      <orderIndex>120</orderIndex>
+   </AllowanceCategoryDetail>
+   <AllowanceCategoryDetail>
+      <category>BB</category>
+      <type>KBS</type>
+      <shortDescription>BlackBerry data</shortDescription>
+      <longDescription>BlackBerry data</longDescription>
+      <orderIndex>200</orderIndex>
+   </AllowanceCategoryDetail>
+   <AllowanceCategoryDetail>
+      <category>OTHER</category>
+      <type>KBS</type>
+      <shortDescription>other types of data</shortDescription>
+      <longDescription>Other types of data</longDescription>
+      <orderIndex>220</orderIndex>
+   </AllowanceCategoryDetail>
+   <AllowanceCategoryDetail>
+      <category>ROAM</category>
+      <type>KBS</type>
+      <shortDescription>international data</shortDescription>
+      <longDescription>International data</longDescription>
+      <orderIndex>210</orderIndex>
+   </AllowanceCategoryDetail>
+   <AllowanceCategoryDetail>
+      <category>TETHER</category>
+      <type>KBS</type>
+      <shortDescription>tethering data</shortDescription>
+      <longDescription>Tethering data</longDescription>
+      <orderIndex>190</orderIndex>
+   </AllowanceCategoryDetail>
+   <AllowanceCategoryDetail>
+      <category>UNRES</category>
+      <type>KBS</type>
+      <shortDescription>UK data</shortDescription>
+      <longDescription>UK data</longDescription>
+      <orderIndex>180</orderIndex>
+   </AllowanceCategoryDetail>
+</AllowanceCategoryDetails>

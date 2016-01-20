@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<validTariffFamilies>
+<tariffFamily>12M</tariffFamily>
+<tariffFamily>12M SIMO</tariffFamily>
+<tariffFamily>18M</tariffFamily>
+<tariffFamily>24M</tariffFamily>
+<tariffFamily>24M IPHONE</tariffFamily>
+<tariffFamily>24MLOWCOST</tariffFamily>
+<tariffFamily>BB</tariffFamily>
+<tariffFamily>DATAONLY</tariffFamily>
+<tariffFamily>IPHONE</tariffFamily>
+<tariffFamily>MBB 18M</tariffFamily>
+<tariffFamily>MBB 1M</tariffFamily>
+<tariffFamily>MBB 24M</tariffFamily>
+<tariffFamily>MBB 24M LV</tariffFamily>
+<tariffFamily>MBB 24M HV</tariffFamily>
+<tariffFamily>MBBBANDC</tariffFamily>
+<tariffFamily>MBBBANDE</tariffFamily>
+<tariffFamily>MBBBANDG</tariffFamily>
+<tariffFamily>MBBBANDJ</tariffFamily>
+<tariffFamily>SIMO</tariffFamily>
+<tariffFamily>SIMOLITE</tariffFamily>
+<tariffFamily>SIMO MASS</tariffFamily>
+<tariffFamily>SIMOIPHONE</tariffFamily>
+<tariffFamily>SMART18</tariffFamily>
+<tariffFamily>SMART24</tariffFamily>
+<tariffFamily>STAFF</tariffFamily>
+<tariffFamily>12M IPHONE</tariffFamily>
+<tariffFamily>BBBONUS24M</tariffFamily>
+<tariffFamily>BONUS24M</tariffFamily>
+<tariffFamily>EXTRA24M</tariffFamily>
+<tariffFamily>PrLease</tariffFamily>
+<tariffFamily>Pr+Lease</tariffFamily>
+<tariffFamily>H@HH12M</tariffFamily>
+<tariffFamily>H@HS12M</tariffFamily>
+<tariffFamily>H@HU12M</tariffFamily>
+<tariffFamily>H@HS1M</tariffFamily>
+<tariffFamily>TabLease20</tariffFamily>
+<tariffFamily>TabLease25</tariffFamily>
+<tariffFamily>TabLease30</tariffFamily>
+<tariffFamily>TabLease35</tariffFamily>
+<tariffFamily>24M XL 0</tariffFamily>
+<tariffFamily>24M XL 1</tariffFamily>
+<tariffFamily>24M XL 2</tariffFamily>
+<tariffFamily>24M XL 3</tariffFamily>
+<tariffFamily>24M XL 4</tariffFamily>
+<tariffFamily>24M XL 5</tariffFamily>
+<tariffFamily>24M XL 6</tariffFamily>
+<tariffFamily>24M XL 7</tariffFamily>
+<tariffFamily>24M XL 8</tariffFamily>
+<tariffFamily>24M XL 9</tariffFamily>
+<tariffFamily>12MSIMO S2</tariffFamily>
+<tariffFamily>12MSIMO S3</tariffFamily>
+<tariffFamily>24M SIMO</tariffFamily>
+<tariffFamily>24MSIMO S0</tariffFamily>
+<tariffFamily>24MSIMO S2</tariffFamily>
+<tariffFamily>24MSIMO S3</tariffFamily>
+<tariffFamily>24MSIMO S4</tariffFamily>
+<tariffFamily>24M CCA</tariffFamily>
+<tariffFamily>24M CCA S0</tariffFamily>
+<tariffFamily>24M CCA S2</tariffFamily>
+<tariffFamily>24M CCA S3</tariffFamily>
+<tariffFamily>24M CCA S4</tariffFamily>
+<tariffFamily>24M S1</tariffFamily>
+<tariffFamily>24M S2</tariffFamily>
+<tariffFamily>24M S3</tariffFamily>
+<tariffFamily>24M S4</tariffFamily>
+<tariffFamily>24M S5</tariffFamily>
+<tariffFamily>SIMO S2</tariffFamily>
+<tariffFamily>SIMO S3</tariffFamily>
+<tariffFamily>12M P2P</tariffFamily>
+<tariffFamily>Pr++Lease</tariffFamily>
+<tariffFamily>24M P2P</tariffFamily>
+<tariffFamily>24M L1</tariffFamily>
+<tariffFamily>24M L2</tariffFamily>
+<tariffFamily>24M L6</tariffFamily>
+<tariffFamily>24M L7</tariffFamily>
+<tariffFamily>24M L8</tariffFamily>
+<tariffFamily>12M SIMO S2</tariffFamily>
+<tariffFamily>12M SIMO S3</tariffFamily>
+<tariffFamily>24M SIMO S0</tariffFamily>
+<tariffFamily>24M SIMO S2</tariffFamily>
+<tariffFamily>24M SIMO S3</tariffFamily>
+<tariffFamily>24M SIMO S4</tariffFamily>
+<tariffFamily>24M CCA S1</tariffFamily>
+<tariffFamily>24M MBB S1</tariffFamily>
+<tariffFamily>24M MBB S2</tariffFamily>
+<tariffFamily>24M MBB S3</tariffFamily>
+<tariffFamily>24MMBSIM</tariffFamily>
+<tariffFamily>24MMBSIMS2</tariffFamily>
+<tariffFamily>12MMBSIMS</tariffFamily>
+<tariffFamily>12MMBSIMS2</tariffFamily>
+<tariffFamily>12MMBSIMS3</tariffFamily>
+<tariffFamily>30DMBSIM</tariffFamily>
+<tariffFamily>24M CCA RI</tariffFamily>
+<tariffFamily>24MSIMORI</tariffFamily>
+<tariffFamily>12MSIMOS5</tariffFamily>
+<tariffFamily>24M S6</tariffFamily>
+<tariffFamily>24IMBS1</tariffFamily>
+<tariffFamily>24IMBS2</tariffFamily>
+<tariffFamily>24IMBS3</tariffFamily>
+<tariffFamily>24IMBS4</tariffFamily>
+<tariffFamily>24MMBSIMS3</tariffFamily>
+<tariffFamily>30DMBBS1</tariffFamily>
+<tariffFamily>24MCCA1</tariffFamily>
+<tariffFamily>24MSIMO1</tariffFamily>
+<tariffFamily>12MSIMO1</tariffFamily>
+<tariffFamily>SIMO1</tariffFamily>
+<tariffFamily>Q115SI24S1</tariffFamily>
+<tariffFamily>Q115SI24S2</tariffFamily>
+<tariffFamily>Q115SI24S3</tariffFamily>
+<tariffFamily>Q115SI24S4</tariffFamily>
+<tariffFamily>Q115SI24S5</tariffFamily>
+<tariffFamily>Q115SI24S6</tariffFamily>
+<tariffFamily>Q115MI24S1</tariffFamily>
+<tariffFamily>Q115MI24S2</tariffFamily>
+<tariffFamily>Q115MI24S3</tariffFamily>
+<tariffFamily>Q115MI24S4</tariffFamily>
+<tariffFamily>Q115HD24S1</tariffFamily>
+<tariffFamily>Q115HD24S2</tariffFamily>
+<tariffFamily>Q115HD30S1</tariffFamily>
+<tariffFamily>Q115HD30S2</tariffFamily>
+<tariffFamily>Q115CCAS1</tariffFamily>
+<tariffFamily>Q115CCAS2</tariffFamily>
+<tariffFamily>Q115CCAS3</tariffFamily>
+<tariffFamily>Q115CD24S1</tariffFamily>
+<tariffFamily>Q115CD24S2</tariffFamily>
+<tariffFamily>Q115CD24S3</tariffFamily>
+<tariffFamily>Q115CD24S4</tariffFamily>
+<tariffFamily>Q115CD24S5</tariffFamily>
+<tariffFamily>Q115SM24S1</tariffFamily>
+<tariffFamily>Q115SM24S2</tariffFamily>
+<tariffFamily>Q115SM24S3</tariffFamily>
+<tariffFamily>Q115SD24S1</tariffFamily>
+<tariffFamily>Q115SD24S2</tariffFamily>
+<tariffFamily>Q115SD24S3</tariffFamily>
+<tariffFamily>Q115SD24S4</tariffFamily>
+<tariffFamily>Q115SD24S5</tariffFamily>
+<tariffFamily>Q115SM12S1</tariffFamily>
+<tariffFamily>Q115SM12S2</tariffFamily>
+<tariffFamily>Q115SM12S3</tariffFamily>
+<tariffFamily>Q115SM12S4</tariffFamily>
+<tariffFamily>Q115SM12S5</tariffFamily>
+<tariffFamily>Q115SD12S1</tariffFamily>
+<tariffFamily>Q115SD12S2</tariffFamily>
+<tariffFamily>Q115SD12S3</tariffFamily>
+<tariffFamily>Q115SM30S1</tariffFamily>
+<tariffFamily>Q115SM30S2</tariffFamily>
+<tariffFamily>Q115SM30S3</tariffFamily>
+<tariffFamily>Q115SD30S1</tariffFamily>
+<tariffFamily>Q115SD30S2</tariffFamily>
+<tariffFamily>Q115SD30S3</tariffFamily>
+<tariffFamily>Q115CCAS4</tariffFamily>
+<tariffFamily>Q115SM24S4</tariffFamily>
+<tariffFamily>Q215HD24S6</tariffFamily>
+<tariffFamily>Q215HD24S7</tariffFamily>
+<tariffFamily>Q115SD30S4</tariffFamily>
+<tariffFamily>Q215CD24S1</tariffFamily>
+<tariffFamily>Q215SD24S1</tariffFamily>
+<tariffFamily>Q315CCAS1</tariffFamily>
+<tariffFamily>Q115CD24S6</tariffFamily>
+<tariffFamily>Q115CD24S7</tariffFamily>
+<tariffFamily>Q315SM24S1</tariffFamily>
+<tariffFamily>Q115SD24S6</tariffFamily>
+<tariffFamily>Q115SD24S7</tariffFamily>
+<tariffFamily>Q115SD24S7</tariffFamily>
+<tariffFamily>Q115SD30S5</tariffFamily>
+<tariffFamily>Q315CCAS2</tariffFamily>
+<tariffFamily>Q315CCAS3</tariffFamily>
+<tariffFamily>Q315CCAS4</tariffFamily>
+<tariffFamily>Q315CCAS5</tariffFamily>
+<tariffFamily>Q315CCAS6</tariffFamily>
+<tariffFamily>Q315SI12S1</tariffFamily>
+<tariffFamily>Q315SI12S2</tariffFamily>
+<tariffFamily>Q315SI12S3</tariffFamily>
+<tariffFamily>Q315SI12S4</tariffFamily>
+<tariffFamily>Q315SI24S1</tariffFamily>
+<tariffFamily>Q315SI24S2</tariffFamily>
+<tariffFamily>Q315SI24S3</tariffFamily>
+<tariffFamily>Q315SI24S4</tariffFamily>
+<tariffFamily>Q315SI24S5</tariffFamily>
+<tariffFamily>Q315SI24S6</tariffFamily>
+<tariffFamily>Q315SI24S7</tariffFamily>
+<tariffFamily>Q315SI24S8</tariffFamily>
+<tariffFamily>Q315SM24S2</tariffFamily>
+<tariffFamily>Q315SM24S3</tariffFamily>
+<tariffFamily>Q315SM24S4</tariffFamily>
+<tariffFamily>Q315SM24S5</tariffFamily>
+<tariffFamily>Q315SM24S6</tariffFamily>
+<tariffFamily>Q115CD24S8</tariffFamily>
+<tariffFamily>Q115CD24S9</tariffFamily>
+<tariffFamily>Q115SD24S8</tariffFamily>
+<tariffFamily>Q115SD24S9</tariffFamily>
+<tariffFamily>Q415SM12S1</tariffFamily>
+<tariffFamily>Q415SD30S1</tariffFamily>
+<tariffFamily>Q115SD30S6</tariffFamily>
+<tariffFamily>Q115SI24S0</tariffFamily>
+<tariffFamily>Q315CCAS7</tariffFamily>
+<tariffFamily>Q315CCAS8</tariffFamily>
+<tariffFamily>Q315SM24S7</tariffFamily>
+<tariffFamily>Q315SM24S8</tariffFamily>
+<tariffFamily>Q415SM12S2</tariffFamily>
+<tariffFamily>Q415SM30S2</tariffFamily>
+<tariffFamily>Q115SD30S7</tariffFamily>
+<tariffFamily>Q115SI24S7</tariffFamily>
+<tariffFamily>Q115SI24S8</tariffFamily>
+<tariffFamily>Q115SI24S9</tariffFamily>
+</validTariffFamilies>

@@ -1,0 +1,83 @@
+<bankHolidays><holiday><id>1</id><name>New Year's Day</name><date>2009-01-01</date></holiday>
+<holiday><id>2</id><name>Good Friday</name><date>2009-04-10</date></holiday>
+<holiday><id>3</id><name>Easter Monday</name><date>2009-04-13</date></holiday>
+<holiday><id>4</id><name>Early May Bank Holiday</name><date>2009-05-04</date></holiday>
+<holiday><id>5</id><name>Spring Bank Holiday</name><date>2009-05-25</date></holiday>
+<holiday><id>6</id><name>Summer Bank Holiday</name><date>2009-08-31</date></holiday>
+<holiday><id>7</id><name>Christmas Day</name><date>2009-12-25</date></holiday>
+<holiday><id>8</id><name>Boxing Day Holiday</name><date>2009-12-28</date></holiday>
+<holiday><id>9</id><name>New Year's Day</name><date>2010-01-01</date></holiday>
+<holiday><id>10</id><name>Good Friday</name><date>2010-04-02</date></holiday>
+<holiday><id>11</id><name>Easter Monday</name><date>2010-04-05</date></holiday>
+<holiday><id>12</id><name>Early May Bank Holiday</name><date>2010-05-03</date></holiday>
+<holiday><id>13</id><name>Spring Bank Holiday</name><date>2010-05-31</date></holiday>
+<holiday><id>14</id><name>Summer Bank Holiday</name><date>2010-08-30</date></holiday>
+<holiday><id>15</id><name>Christmas Day Holiday</name><date>2010-12-27</date></holiday>
+<holiday><id>16</id><name>Boxing Day Holiday</name><date>2010-12-28</date></holiday>
+<holiday><id>17</id><name>New Year's Day Holiday</name><date>2011-01-03</date></holiday>
+<holiday><id>18</id><name>Good Friday</name><date>2011-04-22</date></holiday>
+<holiday><id>19</id><name>Easter Monday</name><date>2011-04-25</date></holiday>
+<holiday><id>20</id><name>Early May Bank Holiday</name><date>2011-05-02</date></holiday>
+<holiday><id>21</id><name>Spring Bank Holiday</name><date>2011-05-30</date></holiday>
+<holiday><id>22</id><name>Summer Bank Holiday</name><date>2011-08-29</date></holiday>
+<holiday><id>23</id><name>Boxing Day</name><date>2011-12-26</date></holiday>
+<holiday><id>24</id><name>Christmas Day Holiday</name><date>2011-12-27</date></holiday>
+<holiday><id>25</id><name>New Year's Day Holiday</name><date>2012-01-02</date></holiday>
+<holiday><id>26</id><name>Good Friday</name><date>2012-04-06</date></holiday>
+<holiday><id>27</id><name>Easter Monday</name><date>2012-04-09</date></holiday>
+<holiday><id>28</id><name>Early May Bank Holiday</name><date>2012-05-07</date></holiday>
+<holiday><id>29</id><name>Spring Bank Holiday</name><date>2012-06-04</date></holiday>
+<holiday><id>30</id><name>Queen's Diamond Jubilee</name><date>2012-06-05</date></holiday>
+<holiday><id>31</id><name>Summer Bank Holiday</name><date>2012-08-27</date></holiday>
+<holiday><id>32</id><name>Christmas Day</name><date>2012-12-25</date></holiday>
+<holiday><id>33</id><name>Boxing Day</name><date>2012-12-26</date></holiday>
+<holiday><id>34</id><name>New Year's Day</name><date>2013-01-01</date></holiday>
+<holiday><id>35</id><name>Good Friday</name><date>2013-03-29</date></holiday>
+<holiday><id>36</id><name>Easter Monday</name><date>2013-04-01</date></holiday>
+<holiday><id>37</id><name>Early May Bank Holiday</name><date>2013-05-06</date></holiday>
+<holiday><id>38</id><name>Spring Bank Holiday</name><date>2013-05-27</date></holiday>
+<holiday><id>39</id><name>Summer Bank Holiday</name><date>2013-08-26</date></holiday>
+<holiday><id>40</id><name>Christmas Day</name><date>2013-12-25</date></holiday>
+<holiday><id>41</id><name>Boxing Day</name><date>2013-12-26</date></holiday>
+<holiday><id>42</id><name>New Year's Day</name><date>2014-01-01</date></holiday>
+<holiday><id>43</id><name>Good Friday</name><date>2014-04-18</date></holiday>
+<holiday><id>44</id><name>Easter Monday</name><date>2014-04-21</date></holiday>
+<holiday><id>45</id><name>Early May Bank Holiday</name><date>2014-05-05</date></holiday>
+<holiday><id>46</id><name>Spring Bank Holiday</name><date>2014-05-26</date></holiday>
+<holiday><id>47</id><name>Summer Bank Holiday</name><date>2014-08-25</date></holiday>
+<holiday><id>48</id><name>Christmas Day</name><date>2014-12-25</date></holiday>
+<holiday><id>49</id><name>Boxing Day Holiday</name><date>2014-12-26</date></holiday>
+<holiday><id>50</id><name>New Year's Day</name><date>2015-01-01</date></holiday>
+<holiday><id>51</id><name>Good Friday</name><date>2015-04-03</date></holiday>
+<holiday><id>52</id><name>Easter Monday</name><date>2015-04-06</date></holiday>
+<holiday><id>53</id><name>Early May Bank Holiday</name><date>2015-05-04</date></holiday>
+<holiday><id>54</id><name>Spring Bank Holiday</name><date>2015-05-25</date></holiday>
+<holiday><id>55</id><name>Summer Bank Holiday</name><date>2015-08-31</date></holiday>
+<holiday><id>56</id><name>Christmas Day</name><date>2015-12-25</date></holiday>
+<holiday><id>57</id><name>Boxing Day Holiday</name><date>2015-12-28</date></holiday>
+<holiday><id>58</id><name>New Year's Day</name><date>2016-01-01</date></holiday>
+<holiday><id>59</id><name>Good Friday</name><date>2016-03-05</date></holiday>
+<holiday><id>60</id><name>Easter Monday</name><date>2016-03-28</date></holiday>
+<holiday><id>61</id><name>Early May Bank Holiday</name><date>2016-05-02</date></holiday>
+<holiday><id>62</id><name>Spring Bank Holiday</name><date>2016-05-30</date></holiday>
+<holiday><id>63</id><name>Summer Bank Holiday</name><date>2016-08-29</date></holiday>
+<holiday><id>64</id><name>Christmas Day</name><date>2016-12-25</date></holiday>
+<holiday><id>65</id><name>Boxing Day</name><date>2016-12-26</date></holiday>
+<holiday><id>66</id><name>Substitute day (for Christmas Day)</name><date>2016-12-27</date></holiday>
+<holiday><id>67</id><name>New Year's Day</name><date>2017-01-01</date></holiday>
+<holiday><id>68</id><name>Good Friday</name><date>2017-04-14</date></holiday>
+<holiday><id>69</id><name>Easter Monday</name><date>2017-04-17</date></holiday>
+<holiday><id>70</id><name>Early May Bank Holiday</name><date>2017-05-01</date></holiday>
+<holiday><id>71</id><name>Spring Bank Holiday</name><date>2017-05-29</date></holiday>
+<holiday><id>72</id><name>Summer Bank Holiday</name><date>2017-08-28</date></holiday>
+<holiday><id>73</id><name>Christmas Day</name><date>2017-12-25</date></holiday>
+<holiday><id>74</id><name>Boxing Day</name><date>2017-12-26</date></holiday>
+<holiday><id>75</id><name>New Year's Day</name><date>2018-01-01</date></holiday>
+<holiday><id>76</id><name>Good Friday</name><date>2018-03-30</date></holiday>
+<holiday><id>77</id><name>Easter Monday</name><date>2018-04-02</date></holiday>
+<holiday><id>78</id><name>Early May Bank Holiday</name><date>2018-05-07</date></holiday>
+<holiday><id>79</id><name>Spring Bank Holiday</name><date>2018-05-28</date></holiday>
+<holiday><id>80</id><name>Summer Bank Holiday</name><date>2018-08-27</date></holiday>
+<holiday><id>81</id><name>Christmas Day</name><date>2018-12-25</date></holiday>
+<holiday><id>82</id><name>Boxing Day</name><date>2018-12-26</date></holiday>
+</bankHolidays>

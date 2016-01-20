@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nemoBoltons>
+	<!-- The inputs and outputs from business service should always contain the descriptive ones and the short codes should be used when acessing entity services -->
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>O2 Shop</channel>
+		<boltonId>8064</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>Family Management System</channel>
+		<boltonId>8064</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>Family Customer Service</channel>
+		<boltonId>8064</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>Online dashboard</channel>
+		<boltonId>8064</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>Family Management Asynchronous system</channel>
+		<boltonId>8064</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>WIN SMS Processor</channel>
+		<boltonId>8064</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>MRS SMS Processor</channel>
+		<boltonId>8064</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Prepay</domain>
+		<role>OWNER</role>
+		<channel>Prepay retail channel</channel>
+		<boltonId>6720</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Prepay</domain>
+		<role>OWNER</role>
+		<channel>Online dashboard</channel>
+		<boltonId>6720</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Prepay</domain>
+		<role>OWNER</role>
+		<channel>Family Management System</channel>
+		<boltonId>6720</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Prepay</domain>
+		<role>OWNER</role>
+		<channel>O2 Shop</channel>
+		<boltonId>6720</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Prepay</domain>
+		<role>OWNER</role>
+		<channel>Family Management Asynchronous system</channel>
+		<boltonId>6720</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Prepay</domain>
+		<role>OWNER</role>
+		<channel>WIN SMS Processor</channel>
+		<boltonId>6720</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Prepay</domain>
+		<role>OWNER</role>
+		<channel>MRS SMS Processor</channel>
+		<boltonId>6720</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Prepay</domain>
+		<role>OWNER</role>
+		<channel>Family Customer Service</channel>
+		<boltonId>6720</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Postpay</domain>
+		<role>MEMBER</role>
+		<channel>O2 Shop</channel>
+		<boltonId>8079</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Postpay</domain>
+		<role>MEMBER</role>
+		<channel>Family Management System</channel>
+		<boltonId>8079</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Postpay</domain>
+		<role>MEMBER</role>
+		<channel>Family Customer Service</channel>
+		<boltonId>8079</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Postpay</domain>
+		<role>MEMBER</role>
+		<channel>Online dashboard</channel>
+		<boltonId>8079</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Postpay</domain>
+		<role>MEMBER</role>
+		<channel>Family Management Asynchronous system</channel>
+		<boltonId>8079</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Postpay</domain>
+		<role>MEMBER</role>
+		<channel>WIN SMS Processor</channel>
+		<boltonId>8079</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Postpay</domain>
+		<role>MEMBER</role>
+		<channel>MRS SMS Processor</channel>
+		<boltonId>8079</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Prepay</domain>
+		<role>MEMBER</role>
+		<channel>Prepay retail channel</channel>
+		<boltonId>6700</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Prepay</domain>
+		<role>MEMBER</role>
+		<channel>Online dashboard</channel>
+		<boltonId>6700</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Prepay</domain>
+		<role>MEMBER</role>
+		<channel>Family Management System</channel>
+		<boltonId>6700</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Prepay</domain>
+		<role>MEMBER</role>
+		<channel>O2 Shop</channel>
+		<boltonId>6700</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Prepay</domain>
+		<role>MEMBER</role>
+		<channel>Family Management Asynchronous system</channel>
+		<boltonId>6700</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Prepay</domain>
+		<role>MEMBER</role>
+		<channel>WIN SMS Processor</channel>
+		<boltonId>6700</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Prepay</domain>
+		<role>MEMBER</role>
+		<channel>MRS SMS Processor</channel>
+		<boltonId>6700</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Prepay</domain>
+		<role>MEMBER</role>
+		<channel>Family Customer Service</channel>
+		<boltonId>6700</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>DISE</domain>
+		<role>MEMBER</role>
+		<channel>O2 Shop</channel>
+		<boltonId>FAMILYMEMBER</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>DISE</domain>
+		<role>MEMBER</role>
+		<channel>Family Management System</channel>
+		<boltonId>FAMILYMEMBER</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>DISE</domain>
+		<role>MEMBER</role>
+		<channel>Family Management Asynchronous system</channel>
+		<boltonId>FAMILYMEMBER</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>DISE</domain>
+		<role>MEMBER</role>
+		<channel>WIN SMS Processor</channel>
+		<boltonId>FAMILYMEMBER</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>DISE</domain>
+		<role>MEMBER</role>
+		<channel>MRS SMS Processor</channel>
+		<boltonId>FAMILYMEMBER</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>DISE</domain>
+		<role>MEMBER</role>
+		<channel>Family Customer Service</channel>
+		<boltonId>FAMILYMEMBER</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>DISE</domain>
+		<role>MEMBER</role>
+		<channel>Online dashboard</channel>
+		<boltonId>FAMILYMEMBER</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>O2 Shop</channel>
+		<boltonId>8069</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>Family Management System</channel>
+		<boltonId>8069</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>Family Customer Service</channel>
+		<boltonId>8069</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>Online dashboard</channel>
+		<boltonId>8069</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>Family Management Asynchronous system</channel>
+		<boltonId>8069</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>WIN SMS Processor</channel>
+		<boltonId>8069</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>MRS SMS Processor</channel>
+		<boltonId>8069</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Prepay</domain>
+		<role>OWNER</role>
+		<channel>Prepay retail channel</channel>
+		<boltonId>6721</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Prepay</domain>
+		<role>OWNER</role>
+		<channel>Online dashboard</channel>
+		<boltonId>6721</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Prepay</domain>
+		<role>OWNER</role>
+		<channel>Family Management System</channel>
+		<boltonId>6721</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Prepay</domain>
+		<role>OWNER</role>
+		<channel>O2 Shop</channel>
+		<boltonId>6721</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Prepay</domain>
+		<role>OWNER</role>
+		<channel>Family Management Asynchronous system</channel>
+		<boltonId>6721</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Prepay</domain>
+		<role>OWNER</role>
+		<channel>WIN SMS Processor</channel>
+		<boltonId>6721</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Prepay</domain>
+		<role>OWNER</role>
+		<channel>MRS SMS Processor</channel>
+		<boltonId>6721</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Prepay</domain>
+		<role>OWNER</role>
+		<channel>Family Customer Service</channel>
+		<boltonId>6721</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Postpay</domain>
+		<role>MEMBER</role>
+		<channel>O2 Shop</channel>
+		<boltonId>8079</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Postpay</domain>
+		<role>MEMBER</role>
+		<channel>Family Management System</channel>
+		<boltonId>8079</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Postpay</domain>
+		<role>MEMBER</role>
+		<channel>Family Customer Service</channel>
+		<boltonId>8079</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Postpay</domain>
+		<role>MEMBER</role>
+		<channel>Online dashboard</channel>
+		<boltonId>8079</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Postpay</domain>
+		<role>MEMBER</role>
+		<channel>Family Management Asynchronous system</channel>
+		<boltonId>8079</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Postpay</domain>
+		<role>MEMBER</role>
+		<channel>WIN SMS Processor</channel>
+		<boltonId>8079</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Postpay</domain>
+		<role>MEMBER</role>
+		<channel>MRS SMS Processor</channel>
+		<boltonId>8079</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Prepay</domain>
+		<role>MEMBER</role>
+		<channel>Prepay retail channel</channel>
+		<boltonId>0005</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Prepay</domain>
+		<role>MEMBER</role>
+		<channel>Online dashboard</channel>
+		<boltonId>6700</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Prepay</domain>
+		<role>MEMBER</role>
+		<channel>Family Management System</channel>
+		<boltonId>6700</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Prepay</domain>
+		<role>MEMBER</role>
+		<channel>O2 Shop</channel>
+		<boltonId>6700</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Prepay</domain>
+		<role>MEMBER</role>
+		<channel>Family Management Asynchronous system</channel>
+		<boltonId>6700</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Prepay</domain>
+		<role>MEMBER</role>
+		<channel>WIN SMS Processor</channel>
+		<boltonId>6700</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Prepay</domain>
+		<role>MEMBER</role>
+		<channel>MRS SMS Processor</channel>
+		<boltonId>6700</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Prepay</domain>
+		<role>MEMBER</role>
+		<channel>Family Customer Service</channel>
+		<boltonId>6700</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>DISE</domain>
+		<role>MEMBER</role>
+		<channel>O2 Shop</channel>
+		<boltonId>FAMILYMEMBER</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>DISE</domain>
+		<role>MEMBER</role>
+		<channel>Family Management System</channel>
+		<boltonId>FAMILYMEMBER</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>DISE</domain>
+		<role>MEMBER</role>
+		<channel>Family Management Asynchronous system</channel>
+		<boltonId>FAMILYMEMBER</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>DISE</domain>
+		<role>MEMBER</role>
+		<channel>WIN SMS Processor</channel>
+		<boltonId>FAMILYMEMBER</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>DISE</domain>
+		<role>MEMBER</role>
+		<channel>MRS SMS Processor</channel>
+		<boltonId>FAMILYMEMBER</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>DISE</domain>
+		<role>MEMBER</role>
+		<channel>Family Customer Service</channel>
+		<boltonId>FAMILYMEMBER</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>DISE</domain>
+		<role>MEMBER</role>
+		<channel>Online dashboard</channel>
+		<boltonId>FAMILYMEMBER</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>O2 Shop</channel>
+		<boltonId>8066</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>Family Management System</channel>
+		<boltonId>8066</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>Family Customer Service</channel>
+		<boltonId>8066</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>Online dashboard</channel>
+		<boltonId>8066</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>Family Management Asynchronous system</channel>
+		<boltonId>8066</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>WIN SMS Processor</channel>
+		<boltonId>8066</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>MRS SMS Processor</channel>
+		<boltonId>8066</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>O2 Shop</channel>
+		<boltonId>8065</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>Family Management System</channel>
+		<boltonId>8065</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>Family Customer Service</channel>
+		<boltonId>8065</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>Online dashboard</channel>
+		<boltonId>8065</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>Family Management Asynchronous system</channel>
+		<boltonId>8065</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>WIN SMS Processor</channel>
+		<boltonId>8065</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>MRS SMS Processor</channel>
+		<boltonId>8065</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>O2 Shop</channel>
+		<boltonId>8071</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>Family Management System</channel>
+		<boltonId>8071</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>Family Customer Service</channel>
+		<boltonId>8071</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>Online dashboard</channel>
+		<boltonId>8071</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>Family Management Asynchronous system</channel>
+		<boltonId>8071</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>WIN SMS Processor</channel>
+		<boltonId>8071</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>MRS SMS Processor</channel>
+		<boltonId>8071</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>O2 Shop</channel>
+		<boltonId>8070</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>Family Management System</channel>
+		<boltonId>8070</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>Family Customer Service</channel>
+		<boltonId>8070</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>Online dashboard</channel>
+		<boltonId>8070</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>Family Management Asynchronous system</channel>
+		<boltonId>8070</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>WIN SMS Processor</channel>
+		<boltonId>8070</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>MRS SMS Processor</channel>
+		<boltonId>8070</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>EVOLUTION</channel>
+		<boltonId>8064</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Prepay</domain>
+		<role>OWNER</role>
+		<channel>EVOLUTION</channel>
+		<boltonId>6720</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Postpay</domain>
+		<role>MEMBER</role>
+		<channel>EVOLUTION</channel>
+		<boltonId>8079</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Prepay</domain>
+		<role>MEMBER</role>
+		<channel>EVOLUTION</channel>
+		<boltonId>6700</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>DISE</domain>
+		<role>MEMBER</role>
+		<channel>EVOLUTION</channel>
+		<boltonId>FAMILYMEMBER</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>EVOLUTION</channel>
+		<boltonId>8069</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Prepay</domain>
+		<role>OWNER</role>
+		<channel>EVOLUTION</channel>
+		<boltonId>6721</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Postpay</domain>
+		<role>MEMBER</role>
+		<channel>EVOLUTION</channel>
+		<boltonId>8079</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Prepay</domain>
+		<role>MEMBER</role>
+		<channel>EVOLUTION</channel>
+		<boltonId>6700</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>DISE</domain>
+		<role>MEMBER</role>
+		<channel>EVOLUTION</channel>
+		<boltonId>FAMILYMEMBER</boltonId>
+		<discountedBoltonId />
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>EVOLUTION</channel>
+		<boltonId>8066</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMSL</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>EVOLUTION</channel>
+		<boltonId>8065</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>EVOLUTION</channel>
+		<boltonId>8071</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+	<bolton>
+		<groupType>FAMLG</groupType>
+		<domain>Postpay</domain>
+		<role>OWNER</role>
+		<channel>EVOLUTION</channel>
+		<boltonId>8070</boltonId>
+		<discountedBoltonId>8074</discountedBoltonId>
+	</bolton>
+</nemoBoltons>

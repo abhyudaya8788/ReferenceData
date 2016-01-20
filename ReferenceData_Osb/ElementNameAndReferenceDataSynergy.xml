@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--# Date #         # Version #        # Author #          # Change Description 			   #-->
+<!--# 1-10-2010#     # 1.0 #           # Sibani panda #    # Added element for BUNDLE element #-->
+<!--# 11-12-2010#     # 1.1 #           # Shravan #    # Added element for OCCGREP DISE file #-->
+<!--# 07-08-2013#     # 1.2 #           # Jawahar #    # Added element for diseAccountTypes DISE file for ESuite project #-->
+<!--# 23-05-2014#     # 1.3 #          # Pronisa Baruah #  # Changes done for DISE Application and Operating System 	
+															Upgrade. New elements ACCOUNTNUMBERCODE and SALESACCOUNTCODE added. Changes done for  SALESPERSONNUMBERCODE element#-->
+<!-- This xml contains the mapping of the element name coming in the input and the reference data file to be used for getDescriptionByCode. -->
+<nameAndDataDetails>
+	<nameAndData>
+		<elementName>BILLINGMEDIACODE</elementName>
+		<dataFile>COIXREP</dataFile>
+	</nameAndData>
+	<nameAndData>
+		<elementName>PAYMENTTYPE</elementName>
+		<dataFile>COC5REP</dataFile>
+	</nameAndData>
+	<nameAndData>
+		<elementName>TARIFFCODE</elementName>
+		<dataFile>CODXREP</dataFile>
+	</nameAndData>
+	<nameAndData>
+		<elementName>DISCOUNTTYPE</elementName>
+		<dataFile>disediscounttypes.sta</dataFile>
+	</nameAndData>
+	<nameAndData>
+		<elementName>PAYMENTTERMS</elementName>
+		<dataFile>F0014</dataFile>
+	</nameAndData>		
+	<nameAndData>
+		<elementName>ACCOUNTTYPE</elementName>
+		<dataFile>F0005</dataFile>
+	</nameAndData>
+	<nameAndData>
+		<elementName>SUBLEDGERCODE</elementName>
+		<dataFile>F0005</dataFile>
+	</nameAndData>
+	<nameAndData>
+		<elementName>BUNDLECODE</elementName>
+		<dataFile>CQNCREP</dataFile>
+	</nameAndData>
+	<nameAndData>
+		<elementName>EVENTTYPE</elementName>
+		<dataFile>COBXREP</dataFile>
+	</nameAndData>
+	<nameAndData>
+		<elementName>REASONCODE</elementName>
+		<dataFile>COD9REP</dataFile>
+	</nameAndData>
+	<nameAndData>
+		<elementName>BUNDLE</elementName>
+		<dataFile>CQNCREP</dataFile>
+	</nameAndData>
+	<nameAndData>
+		<elementName>PROPOSITIONCODE</elementName>
+		<dataFile>SQQYREP</dataFile>
+	</nameAndData>
+	<nameAndData>
+		<elementName>CHARGINGCATEGORY</elementName>
+		<dataFile>SQQXREP</dataFile>
+	</nameAndData>
+	<nameAndData>
+		<elementName>ALLOWANCEPLAN</elementName>
+		<dataFile>ALLOWANCEPLANDATA</dataFile>
+		<refreshFlag>false</refreshFlag>
+	</nameAndData>
+	<nameAndData>
+         <elementName>REPCODE</elementName>
+         <dataFile>COE9REP</dataFile>
+    </nameAndData>
+	<nameAndData>
+		<elementName>ACCOUNTNUMBERCODE</elementName>
+		<dataFile>COE9REP</dataFile>
+	</nameAndData>
+    <nameAndData>
+        <elementName>SALESPERSONNUMBERCODE</elementName>
+        <dataFile>OCCFREP</dataFile>
+    </nameAndData>
+    <nameAndData>
+        <elementName>REPCODETYPE</elementName>
+        <dataFile>OCCEREP</dataFile>
+        </nameAndData>
+    <nameAndData>
+		<elementName>SALESACCOUNTCODE</elementName>
+		<dataFile></dataFile>
+	</nameAndData>
+	<nameAndData>
+		<elementName>RRPDETAILSTARIFFCODE</elementName>
+		<dataFile>OCCGREP</dataFile>
+		<refreshFlag>false</refreshFlag>
+	</nameAndData>
+	<nameAndData>
+		<elementName>4G_TARIFFCODE_VERIFICATION</elementName>
+		<dataFile>P00265T</dataFile>
+	</nameAndData>
+	<nameAndData>
+		<elementName>4G_SERVICECODE_VERIFICATION</elementName>
+		<dataFile>P00265S</dataFile>
+	</nameAndData>
+	<nameAndData>
+		<elementName>ACCOUNTDETAILSTYPE</elementName>
+		<dataFile>diseAccountTypes.dat</dataFile>
+	</nameAndData>
+</nameAndDataDetails>	

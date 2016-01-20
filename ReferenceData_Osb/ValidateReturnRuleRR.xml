@@ -1,0 +1,18 @@
+<ruleDetails>
+	<rule>
+		<id>1</id>
+		<ruleName>History validation - Previous Exchanges</ruleName>
+	</rule>
+	<rule>
+		<id>2</id>
+		<ruleName>History validation - fraud Check</ruleName>
+	</rule>
+	<rule>
+		<id>3</id>
+		<ruleName>Determining the date-of-possession</ruleName>
+	</rule>
+	<rule>
+		<id>4</id>
+		<ruleName>Duration Adherence Validation</ruleName>
+	</rule>
+</ruleDetails>

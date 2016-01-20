@@ -1,0 +1,97 @@
+<UpgradeBandDetails>
+	<UpgradeBandDetail>
+		<spendBand>0 - 29.99</spendBand>
+		<month>
+			<lastUpgrade>0 - 6</lastUpgrade>
+			<value>X</value>
+		</month>
+		<month>
+			<lastUpgrade>7 - 11</lastUpgrade>
+			<value>X</value>
+		</month>
+		<month>
+			<lastUpgrade>12 - 24</lastUpgrade>
+			<value>C</value>
+		</month>
+		<month>
+			<lastUpgrade>25+</lastUpgrade>
+			<value>D</value>
+		</month>
+	</UpgradeBandDetail>
+	<UpgradeBandDetail>
+		<spendBand>30 - 49.99</spendBand>
+		<month>
+			<lastUpgrade>0 - 6</lastUpgrade>
+			<value>X</value>
+		</month>
+		<month>
+			<lastUpgrade>7 - 11</lastUpgrade>
+			<value>X</value>
+		</month>
+		<month>
+			<lastUpgrade>12 - 24</lastUpgrade>
+			<value>E</value>
+		</month>
+		<month>
+			<lastUpgrade>25+</lastUpgrade>
+			<value>F</value>
+		</month>
+	</UpgradeBandDetail>
+	<UpgradeBandDetail>
+		<spendBand>50 - 99.99</spendBand>
+		<month>
+			<lastUpgrade>0 - 6</lastUpgrade>
+			<value>X</value>
+		</month>
+		<month>
+			<lastUpgrade>7 - 11</lastUpgrade>
+			<value>X</value>
+		</month>
+		<month>
+			<lastUpgrade>12 - 24</lastUpgrade>
+			<value>G</value>
+		</month>
+		<month>
+			<lastUpgrade>25+</lastUpgrade>
+			<value>H</value>
+		</month>
+	</UpgradeBandDetail>
+	<UpgradeBandDetail>
+		<spendBand>100 - 199.99</spendBand>
+		<month>
+			<lastUpgrade>0 - 6</lastUpgrade>
+			<value>X</value>
+		</month>
+		<month>
+			<lastUpgrade>7 - 11</lastUpgrade>
+			<value>Y</value>
+		</month>
+		<month>
+			<lastUpgrade>12 - 24</lastUpgrade>
+			<value>I</value>
+		</month>
+		<month>
+			<lastUpgrade>25+</lastUpgrade>
+			<value>J</value>
+		</month>
+	</UpgradeBandDetail>
+	<UpgradeBandDetail>
+		<spendBand>200+</spendBand>
+		<month>
+			<lastUpgrade>0 - 6</lastUpgrade>
+			<value>X</value>
+		</month>
+		<month>
+			<lastUpgrade>7 - 11</lastUpgrade>
+			<value>Z</value>
+		</month>
+		<month>
+			<lastUpgrade>12 - 24</lastUpgrade>
+			<value>K</value>
+		</month>
+		<month>
+			<lastUpgrade>25+</lastUpgrade>
+			<value>L</value>
+		</month>
+	</UpgradeBandDetail>
+</UpgradeBandDetails>
